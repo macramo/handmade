@@ -1,0 +1,63 @@
+[
+  {
+    "id": "corredor-lustres",
+    "name": "Corredor com lustres",
+    "ambiente": "hotel-boutique",
+    "pecas": [
+      "lustres"
+    ],
+    "image": "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+    "status": "realizado"
+  },
+  {
+    "id": "espelho-atelier",
+    "name": "Espelho Boho no ateliê",
+    "ambiente": "urbano-loft",
+    "pecas": [
+      "espelhos"
+    ],
+    "image": "assets/atelier/16-a16bd6bd-7aae-43db-a863-c0d9cd7a97a3-rmsstn.png",
+    "status": "realizado"
+  },
+  {
+    "id": "ninho-berco",
+    "name": "Ninho — berço suspenso",
+    "ambiente": "bercario-ninho",
+    "pecas": [
+      "bercos"
+    ],
+    "image": "assets/pecas/bercos/01-05-berco-redondo-macrame.jpg",
+    "status": "referencia"
+  },
+  {
+    "id": "casa-praia",
+    "name": "Casa de praia",
+    "ambiente": "praia",
+    "pecas": [
+      "travesseiros",
+      "cortinas"
+    ],
+    "image": "assets/pecas/travesseiros/03-29-casa-praia-almofadas.jpg",
+    "status": "editorial"
+  },
+  {
+    "id": "luminaria-premium",
+    "name": "Luminária premium",
+    "ambiente": "rustico-cabana",
+    "pecas": [
+      "lustres"
+    ],
+    "image": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "status": "realizado"
+  },
+  {
+    "id": "painel-sala",
+    "name": "Painel na sala",
+    "ambiente": "urbano-loft",
+    "pecas": [
+      "paineis"
+    ],
+    "image": "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+    "status": "realizado"
+  }
+]

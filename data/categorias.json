@@ -1,0 +1,354 @@
+[
+  {
+    "id": "acessorios",
+    "name": "Acessórios",
+    "group": "vestuario",
+    "count": 2,
+    "cover": "assets/editorial/05-26-passeio-golden-coleira.jpg",
+    "ambientes": [
+      "praia",
+      "casamento",
+      "urbano-loft"
+    ]
+  },
+  {
+    "id": "travesseiros",
+    "name": "Almofadas e travesseiros",
+    "group": "têxtil",
+    "count": 9,
+    "cover": "assets/pecas/travesseiros/01-06-sala-manta-almofadas.jpg",
+    "ambientes": [
+      "urbano-loft",
+      "chale",
+      "praia",
+      "hotel-boutique"
+    ]
+  },
+  {
+    "id": "balancos",
+    "name": "Balanços",
+    "group": "mobiliario",
+    "count": 3,
+    "cover": "assets/pecas/balancos/01-4f31b0293e0078e69496da9e622db636.jpg",
+    "ambientes": [
+      "bercario-ninho",
+      "tropical",
+      "praia",
+      "rustico-cabana"
+    ]
+  },
+  {
+    "id": "bercos",
+    "name": "Berços",
+    "group": "infantil",
+    "count": 6,
+    "cover": "assets/pecas/bercos/01-05-berco-redondo-macrame.jpg",
+    "ambientes": [
+      "bercario-ninho",
+      "chale"
+    ]
+  },
+  {
+    "id": "bolsas",
+    "name": "Bolsas",
+    "group": "vestuario",
+    "count": 10,
+    "cover": "assets/pecas/bolsas/01-24-bolsa-hobo-verde.jpg",
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ]
+  },
+  {
+    "id": "cabanas",
+    "name": "Cabanas",
+    "group": "mobiliario",
+    "count": 4,
+    "cover": "assets/pecas/cabanas/01-bd9315a254a556ac8c19b6b57fc24518.jpg",
+    "ambientes": [
+      "rustico-cabana",
+      "praia",
+      "infantil"
+    ]
+  },
+  {
+    "id": "cadeiras-macas",
+    "name": "Cadeiras e Maças",
+    "group": "mobiliario",
+    "count": 8,
+    "cover": "assets/pecas/cadeiras-macas/01-046cd37ce2032cf601d4648a80233d1d.jpg",
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ]
+  },
+  {
+    "id": "carnaval",
+    "name": "Carnaval",
+    "group": "vestuario",
+    "count": 0,
+    "cover": null,
+    "ambientes": [
+      "tropical",
+      "artistico"
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "carregadores",
+    "name": "Carregadores",
+    "group": "objetos",
+    "count": 4,
+    "cover": "assets/pecas/carregadores/01-01be9a61e970c278f4f5552154a456e8.jpg",
+    "ambientes": [
+      "urbano-loft",
+      "tecnologico"
+    ]
+  },
+  {
+    "id": "chaveiros",
+    "name": "Chaveiros",
+    "group": "objetos",
+    "count": 5,
+    "cover": "assets/pecas/chaveiros/01-30-chaveiro-bege.jpg",
+    "ambientes": [
+      "urbano-loft",
+      "cafe"
+    ]
+  },
+  {
+    "id": "cocares",
+    "name": "Cocares",
+    "group": "ritual",
+    "count": 4,
+    "cover": "assets/pecas/cocares/01-181f58ad448c1472c334d0a590ac2526.jpg",
+    "ambientes": [
+      "mistico-oraculo",
+      "espiritual-templo",
+      "civilizacoes",
+      "artistico"
+    ]
+  },
+  {
+    "id": "cortinas",
+    "name": "Cortinas",
+    "group": "têxtil",
+    "count": 10,
+    "cover": "assets/pecas/cortinas/01-13-cortina-macrame-verde.jpg",
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ]
+  },
+  {
+    "id": "espelhos",
+    "name": "Espelhos",
+    "group": "parede",
+    "count": 13,
+    "cover": "assets/atelier/16-a16bd6bd-7aae-43db-a863-c0d9cd7a97a3-rmsstn.png",
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ]
+  },
+  {
+    "id": "lustres",
+    "name": "Lustres",
+    "group": "iluminacao",
+    "count": 13,
+    "cover": "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ]
+  },
+  {
+    "id": "mantas",
+    "name": "Mantas",
+    "group": "têxtil",
+    "count": 6,
+    "cover": "assets/pecas/mantas/01-01-manta-sofa-apartamento.jpg",
+    "ambientes": [
+      "urbano-loft",
+      "campo",
+      "chale",
+      "montanha"
+    ]
+  },
+  {
+    "id": "mesa",
+    "name": "Mesa",
+    "group": "têxtil",
+    "count": 4,
+    "cover": "assets/pecas/mesa/01-0238ef83151b9045020586d82cf739fc.jpg",
+    "ambientes": [
+      "cafe",
+      "restaurante",
+      "praia"
+    ]
+  },
+  {
+    "id": "paineis",
+    "name": "Painéis",
+    "group": "parede",
+    "count": 24,
+    "cover": "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ]
+  },
+  {
+    "id": "suportes-prateleira",
+    "name": "Prateleiras",
+    "group": "mobiliario",
+    "count": 2,
+    "cover": "assets/pecas/suportes-prateleira/01-20180912macrame-27.jpg",
+    "ambientes": [
+      "urbano-loft",
+      "minimalista-silencio"
+    ]
+  },
+  {
+    "id": "quadros",
+    "name": "Quadros",
+    "group": "parede",
+    "count": 7,
+    "cover": "assets/pecas/quadros/01-03-quadro-macrame.jpg",
+    "ambientes": [
+      "artistico",
+      "classico-palacete",
+      "urbano-loft"
+    ]
+  },
+  {
+    "id": "registros",
+    "name": "Registros do ateliê",
+    "group": "arquivo",
+    "count": 90,
+    "cover": "assets/atelier/01-20251211-145822.jpg",
+    "ambientes": [
+      "urbano-loft"
+    ]
+  },
+  {
+    "id": "saias",
+    "name": "Saias",
+    "group": "vestuario",
+    "count": 3,
+    "cover": "assets/pecas/saias/01-saia-de-macrame.jpeg",
+    "ambientes": [
+      "praia",
+      "casamento",
+      "tropical"
+    ]
+  },
+  {
+    "id": "sandalias",
+    "name": "Sandálias",
+    "group": "vestuario",
+    "count": 6,
+    "cover": "assets/pecas/sandalias/01-20afdba7268571b7dd537c7dc5bd3b50.jpg",
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "deserto"
+    ]
+  },
+  {
+    "id": "sousplats",
+    "name": "Sousplats",
+    "group": "mesa",
+    "count": 5,
+    "cover": "assets/pecas/sousplats/01-14-souplat-porta-copos.jpg",
+    "ambientes": [
+      "restaurante",
+      "cafe",
+      "praia",
+      "casamento"
+    ]
+  },
+  {
+    "id": "suportes-higiene",
+    "name": "Suportes de higiene",
+    "group": "objetos",
+    "count": 0,
+    "cover": null,
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana"
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "suportes-cameras",
+    "name": "Suportes para câmeras",
+    "group": "objetos",
+    "count": 2,
+    "cover": "assets/pecas/suportes-cameras/01-20-super-ideias-de-macrame-criativo-para-se-inspirar-de-frente-para-o-mar.jpeg",
+    "ambientes": [
+      "tecnologico",
+      "urbano-loft"
+    ]
+  },
+  {
+    "id": "suportes-plantas",
+    "name": "Suportes para plantas",
+    "group": "biofilico",
+    "count": 13,
+    "cover": "assets/pecas/suportes-plantas/01-07d5c4f568de4ab69a88fad03d022035.jpg",
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ]
+  },
+  {
+    "id": "suportes-toalha",
+    "name": "Suportes para toalha",
+    "group": "objetos",
+    "count": 0,
+    "cover": null,
+    "ambientes": [
+      "praia",
+      "hotel-boutique"
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "tapetes",
+    "name": "Tapetes",
+    "group": "têxtil",
+    "count": 3,
+    "cover": "assets/pecas/tapetes/01-60-modelos-de-tapete-de-croche-para-sala-e-tutoriais-para-fazer-o-seu.jpeg",
+    "ambientes": [
+      "campo",
+      "rustico-cabana",
+      "deserto"
+    ]
+  },
+  {
+    "id": "tops",
+    "name": "Tops",
+    "group": "vestuario",
+    "count": 9,
+    "cover": "assets/pecas/tops/01-18-top-amarelo-creme.jpg",
+    "ambientes": [
+      "praia",
+      "tropical",
+      "casamento"
+    ]
+  }
+]

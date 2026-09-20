@@ -1,0 +1,654 @@
+[
+  {
+    "id": "artistico",
+    "name": "Artístico",
+    "subtitle": "Galeria Têxtil",
+    "conceito": "Galeria íntima, peça como obra.",
+    "pecasRelacionadas": [
+      "paineis",
+      "quadros",
+      "cocares"
+    ],
+    "hero": "assets/pecas/paineis/03-164e9b13698cb1a716e84fe1efc17c96.jpg",
+    "gallery": [
+      "assets/pecas/paineis/03-164e9b13698cb1a716e84fe1efc17c96.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/pecas/quadros/01-03-quadro-macrame.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+      "assets/pecas/cocares/01-181f58ad448c1472c334d0a590ac2526.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "bercario-ninho",
+    "name": "Berçário",
+    "subtitle": "Ninho",
+    "conceito": "Acolhimento, fio macio, silêncio.",
+    "pecasRelacionadas": [
+      "bercos",
+      "balancos",
+      "travesseiros"
+    ],
+    "hero": "assets/pecas/bercos/01-05-berco-redondo-macrame.jpg",
+    "gallery": [
+      "assets/pecas/bercos/01-05-berco-redondo-macrame.jpg",
+      "assets/pecas/travesseiros/01-06-sala-manta-almofadas.jpg",
+      "assets/pecas/travesseiros/02-08-ambiente-quarto-almofadas.jpg",
+      "assets/pecas/travesseiros/03-29-casa-praia-almofadas.jpg",
+      "assets/editorial/10-8942bfa0-ee1a-4d7d-9bde-565dcb6335d6-uhcagt.png",
+      "assets/pecas/balancos/01-4f31b0293e0078e69496da9e622db636.jpg",
+      "assets/pecas/balancos/02-c5e3daf8b1f61f96873eaf8db4036364.jpg",
+      "assets/pecas/balancos/03-c82f334268da0687bc9b6d1ad974aeaf.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "biofilico-floresta",
+    "name": "Biofílico",
+    "subtitle": "Floresta Interna",
+    "conceito": "Verde vivo entre nós naturais.",
+    "pecasRelacionadas": [
+      "suportes-plantas",
+      "lustres",
+      "cortinas"
+    ],
+    "hero": "assets/ambientes/biofilico-floresta/hero.jpg",
+    "gallery": [
+      "assets/ambientes/biofilico-floresta/hero.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/pecas/cortinas/01-13-cortina-macrame-verde.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg",
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/cortinas/02-52f48f11-a91c-406f-a683-02bf3a4d795a.jpeg"
+    ],
+    "placeholder": false,
+    "heroSource": "generated-direction",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "cafe",
+    "name": "Café",
+    "subtitle": "Café Artesanal",
+    "conceito": "Mesa lenta, corda e cerâmica.",
+    "pecasRelacionadas": [
+      "mesa",
+      "sousplats",
+      "lustres"
+    ],
+    "hero": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/pecas/sousplats/01-14-souplat-porta-copos.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg",
+      "assets/pecas/bolsas/03-bc02d887ceebcc7b086f06d936fb3343.jpg",
+      "assets/pecas/bolsas/04-19ad5735-0ba7-46d1-99c9-60c391e2fc46.jpeg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "campo",
+    "name": "Campo",
+    "subtitle": "Casa de Fazenda",
+    "conceito": "Linho, pólen, sombra de varanda.",
+    "pecasRelacionadas": [
+      "mantas",
+      "tapetes",
+      "paineis"
+    ],
+    "hero": "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+    "gallery": [
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+      "assets/pecas/mantas/01-01-manta-sofa-apartamento.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/editorial/05-26-passeio-golden-coleira.jpg",
+      "assets/pecas/mantas/02-1187ea6f696f4d15c1910aeabcbbbf8f.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "casamento",
+    "name": "Casamento",
+    "subtitle": "Wedding Macramê",
+    "conceito": "Cerimônia têxtil, fundo de altar.",
+    "pecasRelacionadas": [
+      "paineis",
+      "cortinas",
+      "saias"
+    ],
+    "hero": "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+    "gallery": [
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/cortinas/01-13-cortina-macrame-verde.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/pecas/bolsas/02-31-clutch-tassels.jpg",
+      "assets/pecas/acessorios/01-brinco-sintonia-macrame.jpeg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "chale",
+    "name": "Chalé",
+    "subtitle": "Chalet Macramê",
+    "conceito": "Madeira, fogo baixo, franja.",
+    "pecasRelacionadas": [
+      "lustres",
+      "mantas",
+      "travesseiros"
+    ],
+    "hero": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/mantas/01-01-manta-sofa-apartamento.jpg",
+      "assets/pecas/travesseiros/01-06-sala-manta-almofadas.jpg",
+      "assets/pecas/travesseiros/02-08-ambiente-quarto-almofadas.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "civilizacoes",
+    "name": "Civilizações",
+    "subtitle": "Arqueologia Têxtil",
+    "conceito": "Nós como memória ancestral.",
+    "pecasRelacionadas": [
+      "cocares",
+      "paineis",
+      "tapetes"
+    ],
+    "hero": "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+    "gallery": [
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/pecas/cocares/01-181f58ad448c1472c334d0a590ac2526.jpg",
+      "assets/pecas/cocares/02-528e8aec1a519ca96ab4bc1db1ab4dcf.jpg",
+      "assets/pecas/cocares/03-71f51521524a1c5ebbe61895dcb8eda6.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "classico-palacete",
+    "name": "Clássico",
+    "subtitle": "Palacete",
+    "conceito": "Altura, simetria, algodão cru.",
+    "pecasRelacionadas": [
+      "lustres",
+      "quadros",
+      "cortinas"
+    ],
+    "hero": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/quadros/01-03-quadro-macrame.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/pecas/cortinas/01-13-cortina-macrame-verde.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg",
+      "assets/pecas/cortinas/02-52f48f11-a91c-406f-a683-02bf3a4d795a.jpeg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "dark-luxury-noir",
+    "name": "Dark Luxury",
+    "subtitle": "Noir",
+    "conceito": "Sombra, âmbar, silêncio caro.",
+    "pecasRelacionadas": [
+      "lustres",
+      "paineis",
+      "espelhos"
+    ],
+    "hero": "assets/ambientes/dark-luxury-noir/hero.jpg",
+    "gallery": [
+      "assets/ambientes/dark-luxury-noir/hero.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "generated-direction",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "deserto",
+    "name": "Deserto",
+    "subtitle": "Sahara",
+    "conceito": "Areia, ocre, vento parado.",
+    "pecasRelacionadas": [
+      "tapetes",
+      "sandalias",
+      "paineis"
+    ],
+    "hero": "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+    "gallery": [
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/tops/04-22-top-mostarda-ombro.jpg",
+      "assets/pecas/tops/05-23-top-terracota.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/pecas/paineis/03-164e9b13698cb1a716e84fe1efc17c96.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "espiritual-templo",
+    "name": "Espiritual",
+    "subtitle": "Templo",
+    "conceito": "Ritual, eixo vertical, pausa.",
+    "pecasRelacionadas": [
+      "paineis",
+      "cocares",
+      "lustres"
+    ],
+    "hero": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "hotel-boutique",
+    "name": "Hotel Boutique",
+    "subtitle": "Hospitality",
+    "conceito": "Chegada, luz baixa, assinatura.",
+    "pecasRelacionadas": [
+      "lustres",
+      "espelhos",
+      "travesseiros"
+    ],
+    "hero": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/travesseiros/01-06-sala-manta-almofadas.jpg",
+      "assets/pecas/travesseiros/02-08-ambiente-quarto-almofadas.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg",
+      "assets/pecas/travesseiros/03-29-casa-praia-almofadas.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "luxo-haute-decor",
+    "name": "Luxo",
+    "subtitle": "Haute Décor",
+    "conceito": "Peça monumental, hotel de autor.",
+    "pecasRelacionadas": [
+      "paineis",
+      "espelhos",
+      "lustres"
+    ],
+    "hero": "assets/ambientes/luxo-haute-decor/hero.jpg",
+    "gallery": [
+      "assets/ambientes/luxo-haute-decor/hero.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "generated-direction",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "minimalista-silencio",
+    "name": "Minimalista",
+    "subtitle": "Silêncio",
+    "conceito": "Um gesto. Muito ar.",
+    "pecasRelacionadas": [
+      "paineis",
+      "suportes-prateleira",
+      "quadros"
+    ],
+    "hero": "assets/ambientes/minimalista-silencio/hero.jpg",
+    "gallery": [
+      "assets/ambientes/minimalista-silencio/hero.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/pecas/quadros/01-03-quadro-macrame.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+      "assets/pecas/paineis/03-164e9b13698cb1a716e84fe1efc17c96.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "generated-direction",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "montanha",
+    "name": "Montanha",
+    "subtitle": "Refúgio",
+    "conceito": "Lã visual, abrigo, pedra.",
+    "pecasRelacionadas": [
+      "mantas",
+      "tapetes",
+      "lustres"
+    ],
+    "hero": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/mantas/01-01-manta-sofa-apartamento.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg",
+      "assets/pecas/lustres/05-3a13e6bf-10ae-4693-933e-b8bd767287e2.jpeg",
+      "assets/pecas/lustres/06-ae0d6262-cdcf-4803-b47e-3b0b5cbc64b8.jpeg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "mistico-oraculo",
+    "name": "Místico",
+    "subtitle": "Oráculo",
+    "conceito": "Símbolo, sombra, fio-guia.",
+    "pecasRelacionadas": [
+      "cocares",
+      "paineis",
+      "chaveiros"
+    ],
+    "hero": "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+    "gallery": [
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/pecas/chaveiros/01-30-chaveiro-bege.jpg",
+      "assets/pecas/chaveiros/02-3891174ebe76e7ca3277d8e989bc0c60.jpg",
+      "assets/pecas/chaveiros/03-44647e58f233bac481b5e9b5817a6ffd.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "nautico",
+    "name": "Náutico",
+    "subtitle": "Yacht Macramê",
+    "conceito": "Corda de barco, horizonte.",
+    "pecasRelacionadas": [
+      "cortinas",
+      "cadeiras-macas",
+      "sousplats"
+    ],
+    "hero": "assets/instagram/26-thalia-vicci-macrame-on-instagram-tutorial.jpeg",
+    "gallery": [
+      "assets/instagram/26-thalia-vicci-macrame-on-instagram-tutorial.jpeg",
+      "assets/pecas/cortinas/01-13-cortina-macrame-verde.jpg",
+      "assets/pecas/sousplats/01-14-souplat-porta-copos.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/pecas/cadeiras-macas/01-046cd37ce2032cf601d4648a80233d1d.jpg",
+      "assets/pecas/cadeiras-macas/02-0de1b8e9b3004cecb0f2a3911fbdaa4f.jpg",
+      "assets/pecas/cadeiras-macas/03-22087033e9d79888c8814844c92fa4b8.jpg",
+      "assets/pecas/cadeiras-macas/04-38948559cc96d3d8ce1b174676a7f368.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "piscina-oasis",
+    "name": "Piscina",
+    "subtitle": "Oásis",
+    "conceito": "Sombra molhada, descanso.",
+    "pecasRelacionadas": [
+      "cadeiras-macas",
+      "sandalias",
+      "suportes-plantas"
+    ],
+    "hero": "assets/pecas/cadeiras-macas/01-046cd37ce2032cf601d4648a80233d1d.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/01-046cd37ce2032cf601d4648a80233d1d.jpg",
+      "assets/pecas/cadeiras-macas/02-0de1b8e9b3004cecb0f2a3911fbdaa4f.jpg",
+      "assets/pecas/cadeiras-macas/03-22087033e9d79888c8814844c92fa4b8.jpg",
+      "assets/pecas/cadeiras-macas/04-38948559cc96d3d8ce1b174676a7f368.jpg",
+      "assets/pecas/cadeiras-macas/05-86124471d785820fcc6b9d94bc066256.jpg",
+      "assets/pecas/cadeiras-macas/06-89ec509f4091d0aebf563719599ec4f2.jpg",
+      "assets/pecas/cadeiras-macas/07-8b6c0631255adbe8be06ec928eb68b27.jpg",
+      "assets/pecas/cadeiras-macas/08-d002e2bd6bf3362bf3792434614740c4.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "praia",
+    "name": "Praia",
+    "subtitle": "Casa Mediterrânea",
+    "conceito": "Sal, cal, algodão cru.",
+    "pecasRelacionadas": [
+      "bolsas",
+      "sandalias",
+      "saias",
+      "espelhos"
+    ],
+    "hero": "assets/pecas/travesseiros/03-29-casa-praia-almofadas.jpg",
+    "gallery": [
+      "assets/pecas/travesseiros/03-29-casa-praia-almofadas.jpg",
+      "assets/pecas/tops/01-18-top-amarelo-creme.jpg",
+      "assets/pecas/tops/03-20-top-creme.jpg",
+      "assets/pecas/tops/05-23-top-terracota.jpg",
+      "assets/pecas/bolsas/01-24-bolsa-hobo-verde.jpg",
+      "assets/pecas/bolsas/02-31-clutch-tassels.jpg",
+      "assets/atelier/16-a16bd6bd-7aae-43db-a863-c0d9cd7a97a3-rmsstn.png",
+      "assets/pecas/acessorios/01-brinco-sintonia-macrame.jpeg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "restaurante",
+    "name": "Restaurante",
+    "subtitle": "Gastronomia",
+    "conceito": "Mesa posta, tecido como serviço.",
+    "pecasRelacionadas": [
+      "sousplats",
+      "mesa",
+      "lustres"
+    ],
+    "hero": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/pecas/sousplats/01-14-souplat-porta-copos.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg",
+      "assets/pecas/lustres/05-3a13e6bf-10ae-4693-933e-b8bd767287e2.jpeg",
+      "assets/pecas/lustres/06-ae0d6262-cdcf-4803-b47e-3b0b5cbc64b8.jpeg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "rustico-cabana",
+    "name": "Rústico",
+    "subtitle": "Cabana Artesanal",
+    "conceito": "Barro, tronco, lamparina.",
+    "pecasRelacionadas": [
+      "cabanas",
+      "lustres",
+      "tapetes"
+    ],
+    "hero": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg",
+      "assets/pecas/balancos/01-4f31b0293e0078e69496da9e622db636.jpg",
+      "assets/pecas/balancos/02-c5e3daf8b1f61f96873eaf8db4036364.jpg",
+      "assets/pecas/balancos/03-c82f334268da0687bc9b6d1ad974aeaf.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "tecnologico",
+    "name": "Tecnológico",
+    "subtitle": "Digital Macramê",
+    "conceito": "Fio + objeto contemporâneo.",
+    "pecasRelacionadas": [
+      "carregadores",
+      "suportes-cameras",
+      "espelhos"
+    ],
+    "hero": "assets/atelier/16-a16bd6bd-7aae-43db-a863-c0d9cd7a97a3-rmsstn.png",
+    "gallery": [
+      "assets/atelier/16-a16bd6bd-7aae-43db-a863-c0d9cd7a97a3-rmsstn.png",
+      "assets/pecas/carregadores/01-01be9a61e970c278f4f5552154a456e8.jpg",
+      "assets/pecas/carregadores/02-46d3c4c561a1520f44b4141fc6449a93.jpg",
+      "assets/pecas/carregadores/03-e351108f12e109ec4537dae0551ad60a.jpg",
+      "assets/pecas/carregadores/04-e3a705b80f1a6f64f8f17cd47b693f90.jpg",
+      "assets/pecas/espelhos/02-0fdd2ce5afe19635fa7d77f8dcdc62da.jpg",
+      "assets/pecas/espelhos/03-20251211-145822.jpg",
+      "assets/pecas/espelhos/04-20251211-145826.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "tropical",
+    "name": "Tropical",
+    "subtitle": "Jardim Tropical",
+    "conceito": "Sombra verde, brisa, cor.",
+    "pecasRelacionadas": [
+      "cortinas",
+      "suportes-plantas",
+      "tops"
+    ],
+    "hero": "assets/pecas/balancos/01-4f31b0293e0078e69496da9e622db636.jpg",
+    "gallery": [
+      "assets/pecas/balancos/01-4f31b0293e0078e69496da9e622db636.jpg",
+      "assets/pecas/cortinas/01-13-cortina-macrame-verde.jpg",
+      "assets/pecas/tops/01-18-top-amarelo-creme.jpg",
+      "assets/pecas/tops/02-19-top-oliva.jpg",
+      "assets/pecas/tops/03-20-top-creme.jpg",
+      "assets/pecas/espelhos/01-21-top-selfie-espelho.jpg",
+      "assets/pecas/tops/04-22-top-mostarda-ombro.jpg",
+      "assets/pecas/tops/05-23-top-terracota.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "urbano-loft",
+    "name": "Urbano",
+    "subtitle": "Loft",
+    "conceito": "Apartamento, textura, cidade.",
+    "pecasRelacionadas": [
+      "mantas",
+      "espelhos",
+      "bolsas",
+      "travesseiros"
+    ],
+    "hero": "assets/pecas/mantas/01-01-manta-sofa-apartamento.jpg",
+    "gallery": [
+      "assets/pecas/mantas/01-01-manta-sofa-apartamento.jpg",
+      "assets/atelier/01-20251211-145822.jpg",
+      "assets/atelier/02-20251211-145826.jpg",
+      "assets/atelier/03-20251211-145827.jpg",
+      "assets/atelier/04-20251211-145828.jpg",
+      "assets/atelier/05-20251211-145829.jpg",
+      "assets/atelier/06-20251211-145830.jpg",
+      "assets/atelier/07-20251211-145836.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  },
+  {
+    "id": "zen-wabi-sabi",
+    "name": "Zen Japonês",
+    "subtitle": "Wabi-Sabi",
+    "conceito": "Imperfeição bela, vazio útil.",
+    "pecasRelacionadas": [
+      "suportes-plantas",
+      "paineis",
+      "quadros"
+    ],
+    "hero": "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+    "gallery": [
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+      "assets/pecas/quadros/01-03-quadro-macrame.jpg",
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+      "assets/pecas/paineis/03-164e9b13698cb1a716e84fe1efc17c96.jpg",
+      "assets/pecas/paineis/04-1e474e97eebb555556f2ccc6c8a1275e.jpg"
+    ],
+    "placeholder": false,
+    "heroSource": "biblioteca",
+    "cta": "Quero um projeto neste estilo"
+  }
+]

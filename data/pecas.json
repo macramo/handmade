@@ -1,0 +1,5149 @@
+[
+  {
+    "id": "peca-registros-do-atelie-1-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/01-20251211-145822.jpg",
+    "gallery": [
+      "assets/atelier/01-20251211-145822.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-2-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/02-20251211-145826.jpg",
+    "gallery": [
+      "assets/atelier/02-20251211-145826.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-3-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/03-20251211-145827.jpg",
+    "gallery": [
+      "assets/atelier/03-20251211-145827.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-4-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/04-20251211-145828.jpg",
+    "gallery": [
+      "assets/atelier/04-20251211-145828.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-5-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/05-20251211-145829.jpg",
+    "gallery": [
+      "assets/atelier/05-20251211-145829.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-6-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/06-20251211-145830.jpg",
+    "gallery": [
+      "assets/atelier/06-20251211-145830.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-7-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/07-20251211-145836.jpg",
+    "gallery": [
+      "assets/atelier/07-20251211-145836.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-8-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/08-20251211-145839.jpg",
+    "gallery": [
+      "assets/atelier/08-20251211-145839.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-9-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/09-20251211-145840.jpg",
+    "gallery": [
+      "assets/atelier/09-20251211-145840.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-10-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/10-20251211-145844.jpg",
+    "gallery": [
+      "assets/atelier/10-20251211-145844.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-11-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/11-20251211-145849.jpg",
+    "gallery": [
+      "assets/atelier/11-20251211-145849.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "img-20260126-wa0002-12-registros",
+    "name": "Img 20260126 Wa0002",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/12-img-20260126-wa0002.jpg",
+    "gallery": [
+      "assets/atelier/12-img-20260126-wa0002.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "img-20260130-wa0011-13-registros",
+    "name": "Img 20260130 Wa0011",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/13-img-20260130-wa0011.jpg",
+    "gallery": [
+      "assets/atelier/13-img-20260130-wa0011.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "img-20260130-wa0012-14-registros",
+    "name": "Img 20260130 Wa0012",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/14-img-20260130-wa0012-1.jpg",
+    "gallery": [
+      "assets/atelier/14-img-20260130-wa0012-1.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "img-20260130-wa0012-15-registros",
+    "name": "Img 20260130 Wa0012",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/15-img-20260130-wa0012.jpg",
+    "gallery": [
+      "assets/atelier/15-img-20260130-wa0012.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "manta-no-sofa-1-mantas",
+    "name": "Manta no sofá",
+    "category": "mantas",
+    "categoryName": "Mantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mantas/01-01-manta-sofa-apartamento.jpg",
+    "gallery": [
+      "assets/pecas/mantas/01-01-manta-sofa-apartamento.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "painel-pequeno-1-paineis",
+    "name": "Painel pequeno",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/01-02-painel-pequeno.jpg",
+    "gallery": [
+      "assets/pecas/paineis/01-02-painel-pequeno.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "minimalista-silencio"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "quadro-de-macrame-1-quadros",
+    "name": "Quadro de macramê",
+    "category": "quadros",
+    "categoryName": "Quadros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/quadros/01-03-quadro-macrame.jpg",
+    "gallery": [
+      "assets/pecas/quadros/01-03-quadro-macrame.jpg"
+    ],
+    "ambientes": [
+      "artistico"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "berco-redondo-1-bercos",
+    "name": "Berço redondo",
+    "category": "bercos",
+    "categoryName": "Berços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bercos/01-05-berco-redondo-macrame.jpg",
+    "gallery": [
+      "assets/pecas/bercos/01-05-berco-redondo-macrame.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "sala-com-manta-e-almofadas-1-travesseiros",
+    "name": "Sala com manta e almofadas",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/travesseiros/01-06-sala-manta-almofadas.jpg",
+    "gallery": [
+      "assets/pecas/travesseiros/01-06-sala-manta-almofadas.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "quarto-com-almofadas-2-travesseiros",
+    "name": "Quarto com almofadas",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/travesseiros/02-08-ambiente-quarto-almofadas.jpg",
+    "gallery": [
+      "assets/pecas/travesseiros/02-08-ambiente-quarto-almofadas.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "chale"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "lustres-e-plantas-1-lustres",
+    "name": "Lustres e plantas",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg",
+    "gallery": [
+      "assets/pecas/lustres/01-09-ambiente-lustres-plantas.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "hotel-boutique"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "estrelas-de-natal-1-paineis",
+    "name": "Estrelas de Natal",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/01-10-natal-arvore-estrelas.jpg",
+    "gallery": [
+      "assets/editorial/01-10-natal-arvore-estrelas.jpg"
+    ],
+    "ambientes": [
+      "chale"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "estrela-suspensa-2-paineis",
+    "name": "Estrela suspensa",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/02-11-natal-pendurando-estrela.jpg",
+    "gallery": [
+      "assets/editorial/02-11-natal-pendurando-estrela.jpg"
+    ],
+    "ambientes": [
+      "chale"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "cortina-verde-1-cortinas",
+    "name": "Cortina verde",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/01-13-cortina-macrame-verde.jpg",
+    "gallery": [
+      "assets/pecas/cortinas/01-13-cortina-macrame-verde.jpg"
+    ],
+    "ambientes": [
+      "tropical"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "sousplat-e-porta-copos-1-sousplats",
+    "name": "Sousplat e porta-copos",
+    "category": "sousplats",
+    "categoryName": "Sousplats",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sousplats/01-14-souplat-porta-copos.jpg",
+    "gallery": [
+      "assets/pecas/sousplats/01-14-souplat-porta-copos.jpg"
+    ],
+    "ambientes": [
+      "restaurante",
+      "cafe"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "lustre-creme-aceso-2-lustres",
+    "name": "Lustre creme aceso",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg",
+    "gallery": [
+      "assets/pecas/lustres/02-15-lustre-creme-aceso.jpg"
+    ],
+    "ambientes": [
+      "hotel-boutique"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "lustres-no-corredor-3-lustres",
+    "name": "Lustres no corredor",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg",
+    "gallery": [
+      "assets/pecas/lustres/03-16-lustre-duplo-corredor.jpg"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "lustre-tambor-4-lustres",
+    "name": "Lustre tambor",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg",
+    "gallery": [
+      "assets/pecas/lustres/04-17-lustre-tambor-cordao.jpg"
+    ],
+    "ambientes": [
+      "rustico-cabana"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "registros-do-atelie-3-registros",
+    "name": "Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/03-1794cf18-5932-4977-a324-b7e25c32a451-md-2-uff73i.jpg",
+    "gallery": [
+      "assets/editorial/03-1794cf18-5932-4977-a324-b7e25c32a451-md-2-uff73i.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "top-amarelo-e-creme-1-tops",
+    "name": "Top amarelo e creme",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tops/01-18-top-amarelo-creme.jpg",
+    "gallery": [
+      "assets/pecas/tops/01-18-top-amarelo-creme.jpg"
+    ],
+    "ambientes": [
+      "praia"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "top-oliva-2-tops",
+    "name": "Top oliva",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tops/02-19-top-oliva.jpg",
+    "gallery": [
+      "assets/pecas/tops/02-19-top-oliva.jpg"
+    ],
+    "ambientes": [
+      "tropical"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "registros-do-atelie-4-registros",
+    "name": "Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/04-1c28d9c9-30eb-401d-9919-41d387e4086c-w2nlbr.png",
+    "gallery": [
+      "assets/editorial/04-1c28d9c9-30eb-401d-9919-41d387e4086c-w2nlbr.png"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "top-creme-3-tops",
+    "name": "Top creme",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tops/03-20-top-creme.jpg",
+    "gallery": [
+      "assets/pecas/tops/03-20-top-creme.jpg"
+    ],
+    "ambientes": [
+      "praia"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "top-no-espelho-1-tops",
+    "name": "Top no espelho",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/01-21-top-selfie-espelho.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/01-21-top-selfie-espelho.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "top-mostarda-4-tops",
+    "name": "Top mostarda",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tops/04-22-top-mostarda-ombro.jpg",
+    "gallery": [
+      "assets/pecas/tops/04-22-top-mostarda-ombro.jpg"
+    ],
+    "ambientes": [
+      "deserto"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "top-terracota-5-tops",
+    "name": "Top terracota",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tops/05-23-top-terracota.jpg",
+    "gallery": [
+      "assets/pecas/tops/05-23-top-terracota.jpg"
+    ],
+    "ambientes": [
+      "deserto",
+      "praia"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "bolsa-hobo-verde-1-bolsas",
+    "name": "Bolsa hobo verde",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "disponivel",
+    "price": 280,
+    "priceLabel": "R$ 280,00",
+    "image": "assets/pecas/bolsas/01-24-bolsa-hobo-verde.jpg",
+    "gallery": [
+      "assets/pecas/bolsas/01-24-bolsa-hobo-verde.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "cestos-de-parede-2-paineis",
+    "name": "Cestos de parede",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/02-25-cestos-parede-navy.jpg",
+    "gallery": [
+      "assets/pecas/paineis/02-25-cestos-parede-navy.jpg"
+    ],
+    "ambientes": [
+      "nautico",
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "coleira-5-acessorios",
+    "name": "Coleira",
+    "category": "acessorios",
+    "categoryName": "Acessórios",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/05-26-passeio-golden-coleira.jpg",
+    "gallery": [
+      "assets/editorial/05-26-passeio-golden-coleira.jpg"
+    ],
+    "ambientes": [
+      "campo"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "casa-de-praia-3-travesseiros",
+    "name": "Casa de praia",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/travesseiros/03-29-casa-praia-almofadas.jpg",
+    "gallery": [
+      "assets/pecas/travesseiros/03-29-casa-praia-almofadas.jpg"
+    ],
+    "ambientes": [
+      "praia"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "registros-do-atelie-6-registros",
+    "name": "Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/06-2a52736e-ac0e-4c2b-a5f0-dbbd711ca500-d1hklc.png",
+    "gallery": [
+      "assets/editorial/06-2a52736e-ac0e-4c2b-a5f0-dbbd711ca500-d1hklc.png"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "chaveiro-bege-1-chaveiros",
+    "name": "Chaveiro bege",
+    "category": "chaveiros",
+    "categoryName": "Chaveiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/chaveiros/01-30-chaveiro-bege.jpg",
+    "gallery": [
+      "assets/pecas/chaveiros/01-30-chaveiro-bege.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "clutch-com-tassels-2-bolsas",
+    "name": "Clutch com tassels",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/02-31-clutch-tassels.jpg",
+    "gallery": [
+      "assets/pecas/bolsas/02-31-clutch-tassels.jpg"
+    ],
+    "ambientes": [
+      "casamento",
+      "praia"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "3173c01f9cccf0e508fb5689a1230209-ek4wsj-7-registros",
+    "name": "3173c01f9cccf0e508fb5689a1230209 Ek4wsj",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/07-3173c01f9cccf0e508fb5689a1230209-ek4wsj.jpg",
+    "gallery": [
+      "assets/editorial/07-3173c01f9cccf0e508fb5689a1230209-ek4wsj.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "459a6e545fa953baed4760dc85996cf0-epksxo-8-registros",
+    "name": "459a6e545fa953baed4760dc85996cf0 Epksxo",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/08-459a6e545fa953baed4760dc85996cf0-epksxo.jpg",
+    "gallery": [
+      "assets/editorial/08-459a6e545fa953baed4760dc85996cf0-epksxo.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "6f823a3d266a9b124c514d066fef69b0-vpc4r0-9-registros",
+    "name": "6f823a3d266a9b124c514d066fef69b0 Vpc4r0",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/09-6f823a3d266a9b124c514d066fef69b0-vpc4r0.jpg",
+    "gallery": [
+      "assets/editorial/09-6f823a3d266a9b124c514d066fef69b0-vpc4r0.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "almofadas-finesse-10-travesseiros",
+    "name": "Almofadas Finesse",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "disponivel",
+    "price": 180,
+    "priceLabel": "R$ 180,00",
+    "image": "assets/editorial/10-8942bfa0-ee1a-4d7d-9bde-565dcb6335d6-uhcagt.png",
+    "gallery": [
+      "assets/editorial/10-8942bfa0-ee1a-4d7d-9bde-565dcb6335d6-uhcagt.png"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "hotel-boutique"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "8957670cc42805c623873d567b5d6d6e-vqsql4-11-registros",
+    "name": "8957670cc42805c623873d567b5d6d6e Vqsql4",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/11-8957670cc42805c623873d567b5d6d6e-vqsql4.jpg",
+    "gallery": [
+      "assets/editorial/11-8957670cc42805c623873d567b5d6d6e-vqsql4.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "8q5r7-12-registros",
+    "name": "8q5r7",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/12-8q5r7-1.jpg",
+    "gallery": [
+      "assets/editorial/12-8q5r7-1.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "8q5r7-13-registros",
+    "name": "8q5r7",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/13-8q5r7-2.jpg",
+    "gallery": [
+      "assets/editorial/13-8q5r7-2.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "8q5r7-14-registros",
+    "name": "8q5r7",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/14-8q5r7.jpg",
+    "gallery": [
+      "assets/editorial/14-8q5r7.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "9yepp-15-registros",
+    "name": "9yepp",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/15-9yepp-1.jpg",
+    "gallery": [
+      "assets/editorial/15-9yepp-1.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "9yepp-16-registros",
+    "name": "9yepp",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/16-9yepp.jpg",
+    "gallery": [
+      "assets/editorial/16-9yepp.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "espelho-boho-16-espelhos",
+    "name": "Espelho Boho",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "disponivel",
+    "price": 300,
+    "priceLabel": "R$ 300,00",
+    "image": "assets/atelier/16-a16bd6bd-7aae-43db-a863-c0d9cd7a97a3-rmsstn.png",
+    "gallery": [
+      "assets/atelier/16-a16bd6bd-7aae-43db-a863-c0d9cd7a97a3-rmsstn.png"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "b9896b77a50ad14b94b827d780bdcb44-nzjp1b-17-registros",
+    "name": "B9896b77a50ad14b94b827d780bdcb44 Nzjp1b",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/17-b9896b77a50ad14b94b827d780bdcb44-nzjp1b.jpg",
+    "gallery": [
+      "assets/editorial/17-b9896b77a50ad14b94b827d780bdcb44-nzjp1b.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "d61956723832b376f907c28b59fd16da-dj0aww-18-registros",
+    "name": "D61956723832b376f907c28b59fd16da Dj0aww",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/18-d61956723832b376f907c28b59fd16da-dj0aww.jpg",
+    "gallery": [
+      "assets/editorial/18-d61956723832b376f907c28b59fd16da-dj0aww.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "e3-quarto-macrame-19-registros",
+    "name": "e3 Quarto Macramê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/19-e3-quarto-macrame.jpg",
+    "gallery": [
+      "assets/editorial/19-e3-quarto-macrame.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-20-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/20-file-0000000002f0720ebfafa6feaeb8d0f1-kdistm.png",
+    "gallery": [
+      "assets/editorial/20-file-0000000002f0720ebfafa6feaeb8d0f1-kdistm.png"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-21-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/21-file-0000000091f4720e88961eba0e968f18-dcc8dk.png",
+    "gallery": [
+      "assets/editorial/21-file-0000000091f4720e88961eba0e968f18-dcc8dk.png"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "gzu3y-22-registros",
+    "name": "Gzu3y",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/22-gzu3y-1.jpg",
+    "gallery": [
+      "assets/editorial/22-gzu3y-1.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "gzu3y-23-registros",
+    "name": "Gzu3y",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/23-gzu3y.jpg",
+    "gallery": [
+      "assets/editorial/23-gzu3y.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "hkhtb-24-registros",
+    "name": "Hkhtb",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/24-hkhtb-1.jpg",
+    "gallery": [
+      "assets/editorial/24-hkhtb-1.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-25-registros",
+    "name": "Image",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/25-image-40.jpg",
+    "gallery": [
+      "assets/editorial/25-image-40.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-26-registros",
+    "name": "Image",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/26-image-42.jpg",
+    "gallery": [
+      "assets/editorial/26-image-42.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t065526-349-27-registros",
+    "name": "Image 2026 08 25t065526.349",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/27-image-2026-08-25t065526-349.jpg",
+    "gallery": [
+      "assets/editorial/27-image-2026-08-25t065526-349.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t065542-639-28-registros",
+    "name": "Image 2026 08 25t065542.639",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/28-image-2026-08-25t065542-639.jpg",
+    "gallery": [
+      "assets/editorial/28-image-2026-08-25t065542-639.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t065546-829-29-registros",
+    "name": "Image 2026 08 25t065546.829",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/29-image-2026-08-25t065546-829.jpg",
+    "gallery": [
+      "assets/editorial/29-image-2026-08-25t065546-829.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t065552-762-30-registros",
+    "name": "Image 2026 08 25t065552.762",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/30-image-2026-08-25t065552-762.jpg",
+    "gallery": [
+      "assets/editorial/30-image-2026-08-25t065552-762.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t065927-163-31-registros",
+    "name": "Image 2026 08 25t065927.163",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/31-image-2026-08-25t065927-163.jpg",
+    "gallery": [
+      "assets/editorial/31-image-2026-08-25t065927-163.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t065930-491-32-registros",
+    "name": "Image 2026 08 25t065930.491",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/32-image-2026-08-25t065930-491.jpg",
+    "gallery": [
+      "assets/editorial/32-image-2026-08-25t065930-491.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t065934-073-33-registros",
+    "name": "Image 2026 08 25t065934.073",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/33-image-2026-08-25t065934-073.jpg",
+    "gallery": [
+      "assets/editorial/33-image-2026-08-25t065934-073.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t065938-231-34-registros",
+    "name": "Image 2026 08 25t065938.231",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/34-image-2026-08-25t065938-231.jpg",
+    "gallery": [
+      "assets/editorial/34-image-2026-08-25t065938-231.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t070027-696-35-registros",
+    "name": "Image 2026 08 25t070027.696",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/35-image-2026-08-25t070027-696.jpg",
+    "gallery": [
+      "assets/editorial/35-image-2026-08-25t070027-696.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t070111-991-36-registros",
+    "name": "Image 2026 08 25t070111.991",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/36-image-2026-08-25t070111-991.jpg",
+    "gallery": [
+      "assets/editorial/36-image-2026-08-25t070111-991.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t070229-946-37-registros",
+    "name": "Image 2026 08 25t070229.946",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/37-image-2026-08-25t070229-946.jpg",
+    "gallery": [
+      "assets/editorial/37-image-2026-08-25t070229-946.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t070237-033-38-registros",
+    "name": "Image 2026 08 25t070237.033",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/38-image-2026-08-25t070237-033.jpg",
+    "gallery": [
+      "assets/editorial/38-image-2026-08-25t070237-033.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t070313-693-39-registros",
+    "name": "Image 2026 08 25t070313.693",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/39-image-2026-08-25t070313-693.jpg",
+    "gallery": [
+      "assets/editorial/39-image-2026-08-25t070313-693.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t070358-200-40-registros",
+    "name": "Image 2026 08 25t070358.200",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/40-image-2026-08-25t070358-200.jpg",
+    "gallery": [
+      "assets/editorial/40-image-2026-08-25t070358-200.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t070709-837-41-registros",
+    "name": "Image 2026 08 25t070709.837",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/41-image-2026-08-25t070709-837.jpg",
+    "gallery": [
+      "assets/editorial/41-image-2026-08-25t070709-837.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "image-2026-08-25t071149-369-42-registros",
+    "name": "Image 2026 08 25t071149.369",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/42-image-2026-08-25t071149-369.jpg",
+    "gallery": [
+      "assets/editorial/42-image-2026-08-25t071149-369.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "img-20240823-wa0030-jefnbj-43-registros",
+    "name": "Img 20240823 Wa0030 Jefnbj",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/43-img-20240823-wa0030-jefnbj.jpg",
+    "gallery": [
+      "assets/editorial/43-img-20240823-wa0030-jefnbj.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "img-20240823-wa0030-vzztgh-44-registros",
+    "name": "Img 20240823 Wa0030 Vzztgh",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/44-img-20240823-wa0030-vzztgh.jpg",
+    "gallery": [
+      "assets/editorial/44-img-20240823-wa0030-vzztgh.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "img-20260226-wa0017-zsbhj5-45-registros",
+    "name": "Img 20260226 Wa0017 Zsbhj5",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/45-img-20260226-wa0017-zsbhj5.jpg",
+    "gallery": [
+      "assets/editorial/45-img-20260226-wa0017-zsbhj5.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "img-20260322-wa0027-b9w3h2-46-registros",
+    "name": "Img 20260322 Wa0027 B9w3h2",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/46-img-20260322-wa0027-b9w3h2.jpg",
+    "gallery": [
+      "assets/editorial/46-img-20260322-wa0027-b9w3h2.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "img-20250330-200347-dtrpp3-47-registros",
+    "name": "Img 20250330 200347 Dtrpp3",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/47-img-20250330-200347-dtrpp3.jpg",
+    "gallery": [
+      "assets/editorial/47-img-20250330-200347-dtrpp3.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "img-20250425-193107-0945-tlhda7-48-registros",
+    "name": "Img 20250425 193107 0945 Tlhda7",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/48-img-20250425-193107-0945-tlhda7.jpg",
+    "gallery": [
+      "assets/editorial/48-img-20250425-193107-0945-tlhda7.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "img-20251228-093523-0110-v2lsx4-49-registros",
+    "name": "Img 20251228 093523 0110 V2lsx4",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/49-img-20251228-093523-0110-v2lsx4.jpg",
+    "gallery": [
+      "assets/editorial/49-img-20251228-093523-0110-v2lsx4.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "j0dmt-50-registros",
+    "name": "J0dmt",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/50-j0dmt-1.jpg",
+    "gallery": [
+      "assets/editorial/50-j0dmt-1.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "j0dmt-51-registros",
+    "name": "J0dmt",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/51-j0dmt.jpg",
+    "gallery": [
+      "assets/editorial/51-j0dmt.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "luminaria-premium-17-lustres",
+    "name": "Luminária premium",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg",
+    "gallery": [
+      "assets/atelier/17-luminaria-macrame-premium-w3cr1r-djequ1.jpg"
+    ],
+    "ambientes": [
+      "rustico-cabana",
+      "luxo-haute-decor"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "painel-e-modelo-xkj4i1-18-paineis",
+    "name": "Painel e Modelo Xkj4i1",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/atelier/18-painel-e-modelo-xkj4i1.jpg",
+    "gallery": [
+      "assets/atelier/18-painel-e-modelo-xkj4i1.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "atelier",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061452-instagram-1-registros",
+    "name": "Screenshot 20260825 061452 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/01-screenshot-20260825-061452-instagram.jpg",
+    "gallery": [
+      "assets/instagram/01-screenshot-20260825-061452-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061528-instagram-2-registros",
+    "name": "Screenshot 20260825 061528 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/02-screenshot-20260825-061528-instagram.jpg",
+    "gallery": [
+      "assets/instagram/02-screenshot-20260825-061528-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061602-instagram-3-registros",
+    "name": "Screenshot 20260825 061602 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/03-screenshot-20260825-061602-instagram.jpg",
+    "gallery": [
+      "assets/instagram/03-screenshot-20260825-061602-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061656-instagram-4-registros",
+    "name": "Screenshot 20260825 061656 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/04-screenshot-20260825-061656-instagram.jpg",
+    "gallery": [
+      "assets/instagram/04-screenshot-20260825-061656-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061714-instagram-5-registros",
+    "name": "Screenshot 20260825 061714 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/05-screenshot-20260825-061714-instagram.jpg",
+    "gallery": [
+      "assets/instagram/05-screenshot-20260825-061714-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061736-instagram-6-registros",
+    "name": "Screenshot 20260825 061736 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/06-screenshot-20260825-061736-instagram.jpg",
+    "gallery": [
+      "assets/instagram/06-screenshot-20260825-061736-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061806-instagram-7-registros",
+    "name": "Screenshot 20260825 061806 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/07-screenshot-20260825-061806-instagram.jpg",
+    "gallery": [
+      "assets/instagram/07-screenshot-20260825-061806-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061834-instagram-8-registros",
+    "name": "Screenshot 20260825 061834 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/08-screenshot-20260825-061834-instagram.jpg",
+    "gallery": [
+      "assets/instagram/08-screenshot-20260825-061834-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061851-instagram-9-registros",
+    "name": "Screenshot 20260825 061851 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/09-screenshot-20260825-061851-instagram.jpg",
+    "gallery": [
+      "assets/instagram/09-screenshot-20260825-061851-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061912-instagram-10-registros",
+    "name": "Screenshot 20260825 061912 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/10-screenshot-20260825-061912-instagram.jpg",
+    "gallery": [
+      "assets/instagram/10-screenshot-20260825-061912-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061924-instagram-11-registros",
+    "name": "Screenshot 20260825 061924 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/11-screenshot-20260825-061924-instagram.jpg",
+    "gallery": [
+      "assets/instagram/11-screenshot-20260825-061924-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061933-instagram-12-registros",
+    "name": "Screenshot 20260825 061933 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/12-screenshot-20260825-061933-instagram.jpg",
+    "gallery": [
+      "assets/instagram/12-screenshot-20260825-061933-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-061957-instagram-13-registros",
+    "name": "Screenshot 20260825 061957 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/13-screenshot-20260825-061957-instagram.jpg",
+    "gallery": [
+      "assets/instagram/13-screenshot-20260825-061957-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062007-instagram-14-registros",
+    "name": "Screenshot 20260825 062007 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/14-screenshot-20260825-062007-instagram.jpg",
+    "gallery": [
+      "assets/instagram/14-screenshot-20260825-062007-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062036-instagram-15-registros",
+    "name": "Screenshot 20260825 062036 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/15-screenshot-20260825-062036-instagram.jpg",
+    "gallery": [
+      "assets/instagram/15-screenshot-20260825-062036-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062052-instagram-16-registros",
+    "name": "Screenshot 20260825 062052 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/16-screenshot-20260825-062052-instagram.jpg",
+    "gallery": [
+      "assets/instagram/16-screenshot-20260825-062052-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062123-instagram-17-registros",
+    "name": "Screenshot 20260825 062123 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/17-screenshot-20260825-062123-instagram.jpg",
+    "gallery": [
+      "assets/instagram/17-screenshot-20260825-062123-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062144-instagram-18-registros",
+    "name": "Screenshot 20260825 062144 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/18-screenshot-20260825-062144-instagram.jpg",
+    "gallery": [
+      "assets/instagram/18-screenshot-20260825-062144-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062200-instagram-19-registros",
+    "name": "Screenshot 20260825 062200 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/19-screenshot-20260825-062200-instagram.jpg",
+    "gallery": [
+      "assets/instagram/19-screenshot-20260825-062200-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062214-instagram-20-registros",
+    "name": "Screenshot 20260825 062214 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/20-screenshot-20260825-062214-instagram.jpg",
+    "gallery": [
+      "assets/instagram/20-screenshot-20260825-062214-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062244-instagram-21-registros",
+    "name": "Screenshot 20260825 062244 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/21-screenshot-20260825-062244-instagram.jpg",
+    "gallery": [
+      "assets/instagram/21-screenshot-20260825-062244-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062250-instagram-22-registros",
+    "name": "Screenshot 20260825 062250 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/22-screenshot-20260825-062250-instagram.jpg",
+    "gallery": [
+      "assets/instagram/22-screenshot-20260825-062250-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062258-instagram-23-registros",
+    "name": "Screenshot 20260825 062258 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/23-screenshot-20260825-062258-instagram.jpg",
+    "gallery": [
+      "assets/instagram/23-screenshot-20260825-062258-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062302-instagram-24-registros",
+    "name": "Screenshot 20260825 062302 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/24-screenshot-20260825-062302-instagram.jpg",
+    "gallery": [
+      "assets/instagram/24-screenshot-20260825-062302-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "screenshot-20260825-062309-instagram-25-registros",
+    "name": "Screenshot 20260825 062309 Instagram",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/25-screenshot-20260825-062309-instagram.jpg",
+    "gallery": [
+      "assets/instagram/25-screenshot-20260825-062309-instagram.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-52-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/52-whatsapp-image-2025-12-17-at-21-56-37-1-kzngca.jpg",
+    "gallery": [
+      "assets/editorial/52-whatsapp-image-2025-12-17-at-21-56-37-1-kzngca.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "peca-registros-do-atelie-53-registros",
+    "name": "Peça Registros do ateliê",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/53-whatsapp-image-2025-12-17-at-21-56-39-1-wmi7vg.jpg",
+    "gallery": [
+      "assets/editorial/53-whatsapp-image-2025-12-17-at-21-56-39-1-wmi7vg.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "zjuod-54-registros",
+    "name": "Zjuod",
+    "category": "registros",
+    "categoryName": "Registros do ateliê",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/editorial/54-zjuod.jpg",
+    "gallery": [
+      "assets/editorial/54-zjuod.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft"
+    ],
+    "source": "editorial",
+    "placeholder": false
+  },
+  {
+    "id": "brinco-sintonia-macrame-1-acessorios",
+    "name": "Brinco Sintonia Macramê",
+    "category": "acessorios",
+    "categoryName": "Acessórios",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/acessorios/01-brinco-sintonia-macrame.jpeg",
+    "gallery": [
+      "assets/pecas/acessorios/01-brinco-sintonia-macrame.jpeg"
+    ],
+    "ambientes": [
+      "praia",
+      "casamento",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-balancos-1-balancos",
+    "name": "Peça Balanços",
+    "category": "balancos",
+    "categoryName": "Balanços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/balancos/01-4f31b0293e0078e69496da9e622db636.jpg",
+    "gallery": [
+      "assets/pecas/balancos/01-4f31b0293e0078e69496da9e622db636.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "tropical",
+      "praia",
+      "rustico-cabana"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-balancos-2-balancos",
+    "name": "Peça Balanços",
+    "category": "balancos",
+    "categoryName": "Balanços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/balancos/02-c5e3daf8b1f61f96873eaf8db4036364.jpg",
+    "gallery": [
+      "assets/pecas/balancos/02-c5e3daf8b1f61f96873eaf8db4036364.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "tropical",
+      "praia",
+      "rustico-cabana"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-balancos-3-balancos",
+    "name": "Peça Balanços",
+    "category": "balancos",
+    "categoryName": "Balanços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/balancos/03-c82f334268da0687bc9b6d1ad974aeaf.jpg",
+    "gallery": [
+      "assets/pecas/balancos/03-c82f334268da0687bc9b6d1ad974aeaf.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "tropical",
+      "praia",
+      "rustico-cabana"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bercos-2-bercos",
+    "name": "Peça Berços",
+    "category": "bercos",
+    "categoryName": "Berços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bercos/02-3040a9e86775fbd1362a6117b2c8f61a.jpg",
+    "gallery": [
+      "assets/pecas/bercos/02-3040a9e86775fbd1362a6117b2c8f61a.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "chale"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bercos-3-bercos",
+    "name": "Peça Berços",
+    "category": "bercos",
+    "categoryName": "Berços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bercos/03-ed4167d37b4a83ed16846a06a32d4c10.jpg",
+    "gallery": [
+      "assets/pecas/bercos/03-ed4167d37b4a83ed16846a06a32d4c10.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "chale"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bercos-4-bercos",
+    "name": "Peça Berços",
+    "category": "bercos",
+    "categoryName": "Berços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bercos/04-fce95b3519e0193f96e2ba438491ceba.jpg",
+    "gallery": [
+      "assets/pecas/bercos/04-fce95b3519e0193f96e2ba438491ceba.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "chale"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "img-20260126-wa0002-5-bercos",
+    "name": "Img 20260126 Wa0002",
+    "category": "bercos",
+    "categoryName": "Berços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bercos/05-img-20260126-wa0002-1.jpg",
+    "gallery": [
+      "assets/pecas/bercos/05-img-20260126-wa0002-1.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "chale"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "img-20260126-wa0002-6-bercos",
+    "name": "Img 20260126 Wa0002",
+    "category": "bercos",
+    "categoryName": "Berços",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bercos/06-img-20260126-wa0002.jpg",
+    "gallery": [
+      "assets/pecas/bercos/06-img-20260126-wa0002.jpg"
+    ],
+    "ambientes": [
+      "bercario-ninho",
+      "chale"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bolsas-3-bolsas",
+    "name": "Peça Bolsas",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/03-bc02d887ceebcc7b086f06d936fb3343.jpg",
+    "gallery": [
+      "assets/pecas/bolsas/03-bc02d887ceebcc7b086f06d936fb3343.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bolsas-4-bolsas",
+    "name": "Peça Bolsas",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/04-19ad5735-0ba7-46d1-99c9-60c391e2fc46.jpeg",
+    "gallery": [
+      "assets/pecas/bolsas/04-19ad5735-0ba7-46d1-99c9-60c391e2fc46.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bolsas-5-bolsas",
+    "name": "Peça Bolsas",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/05-74c8afa23180a3a366a09d8be328114b.jpg",
+    "gallery": [
+      "assets/pecas/bolsas/05-74c8afa23180a3a366a09d8be328114b.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bolsas-6-bolsas",
+    "name": "Peça Bolsas",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/06-8558961b01ede23d0bff9dc748a4dfc1.jpg",
+    "gallery": [
+      "assets/pecas/bolsas/06-8558961b01ede23d0bff9dc748a4dfc1.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bolsas-7-bolsas",
+    "name": "Peça Bolsas",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/07-af52434cf24190c14972848f7404cb94.jpg",
+    "gallery": [
+      "assets/pecas/bolsas/07-af52434cf24190c14972848f7404cb94.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bolsas-8-bolsas",
+    "name": "Peça Bolsas",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/08-f53a7acd13e52d560f66c4474f0dda08.jpg",
+    "gallery": [
+      "assets/pecas/bolsas/08-f53a7acd13e52d560f66c4474f0dda08.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-bolsas-9-bolsas",
+    "name": "Peça Bolsas",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/09-fb5a36f394b670ab1a478c2f4ccd2889.jpg",
+    "gallery": [
+      "assets/pecas/bolsas/09-fb5a36f394b670ab1a478c2f4ccd2889.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "ideias-de-bolsas-de-macrame-pequenas-para-copiar-e-vender-de-frente-para-o-mar-1",
+    "name": "Ideias de Bolsas de Macramê Pequenas Para Copiar e Vender! ⋆ de Frente Para o Mar",
+    "category": "bolsas",
+    "categoryName": "Bolsas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/bolsas/10-17-ideias-de-bolsas-de-macrame-pequenas-para-copiar-e-vender-de-frente-para-o-ma.jpeg",
+    "gallery": [
+      "assets/pecas/bolsas/10-17-ideias-de-bolsas-de-macrame-pequenas-para-copiar-e-vender-de-frente-para-o-ma.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cabanas-1-cabanas",
+    "name": "Peça Cabanas",
+    "category": "cabanas",
+    "categoryName": "Cabanas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cabanas/01-bd9315a254a556ac8c19b6b57fc24518.jpg",
+    "gallery": [
+      "assets/pecas/cabanas/01-bd9315a254a556ac8c19b6b57fc24518.jpg"
+    ],
+    "ambientes": [
+      "rustico-cabana",
+      "praia",
+      "infantil"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cabanas-2-cabanas",
+    "name": "Peça Cabanas",
+    "category": "cabanas",
+    "categoryName": "Cabanas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cabanas/02-c5a83cbcbc28411bedfec8206861d635.jpg",
+    "gallery": [
+      "assets/pecas/cabanas/02-c5a83cbcbc28411bedfec8206861d635.jpg"
+    ],
+    "ambientes": [
+      "rustico-cabana",
+      "praia",
+      "infantil"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cabanas-3-cabanas",
+    "name": "Peça Cabanas",
+    "category": "cabanas",
+    "categoryName": "Cabanas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cabanas/03-d589b2a4d03625703c5c5ff2387f23a5-1.jpg",
+    "gallery": [
+      "assets/pecas/cabanas/03-d589b2a4d03625703c5c5ff2387f23a5-1.jpg"
+    ],
+    "ambientes": [
+      "rustico-cabana",
+      "praia",
+      "infantil"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cabanas-4-cabanas",
+    "name": "Peça Cabanas",
+    "category": "cabanas",
+    "categoryName": "Cabanas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cabanas/04-d589b2a4d03625703c5c5ff2387f23a5.jpg",
+    "gallery": [
+      "assets/pecas/cabanas/04-d589b2a4d03625703c5c5ff2387f23a5.jpg"
+    ],
+    "ambientes": [
+      "rustico-cabana",
+      "praia",
+      "infantil"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cadeiras-e-macas-1-cadeiras-macas",
+    "name": "Peça Cadeiras e Maças",
+    "category": "cadeiras-macas",
+    "categoryName": "Cadeiras e Maças",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cadeiras-macas/01-046cd37ce2032cf601d4648a80233d1d.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/01-046cd37ce2032cf601d4648a80233d1d.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cadeiras-e-macas-2-cadeiras-macas",
+    "name": "Peça Cadeiras e Maças",
+    "category": "cadeiras-macas",
+    "categoryName": "Cadeiras e Maças",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cadeiras-macas/02-0de1b8e9b3004cecb0f2a3911fbdaa4f.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/02-0de1b8e9b3004cecb0f2a3911fbdaa4f.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cadeiras-e-macas-3-cadeiras-macas",
+    "name": "Peça Cadeiras e Maças",
+    "category": "cadeiras-macas",
+    "categoryName": "Cadeiras e Maças",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cadeiras-macas/03-22087033e9d79888c8814844c92fa4b8.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/03-22087033e9d79888c8814844c92fa4b8.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cadeiras-e-macas-4-cadeiras-macas",
+    "name": "Peça Cadeiras e Maças",
+    "category": "cadeiras-macas",
+    "categoryName": "Cadeiras e Maças",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cadeiras-macas/04-38948559cc96d3d8ce1b174676a7f368.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/04-38948559cc96d3d8ce1b174676a7f368.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cadeiras-e-macas-5-cadeiras-macas",
+    "name": "Peça Cadeiras e Maças",
+    "category": "cadeiras-macas",
+    "categoryName": "Cadeiras e Maças",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cadeiras-macas/05-86124471d785820fcc6b9d94bc066256.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/05-86124471d785820fcc6b9d94bc066256.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cadeiras-e-macas-6-cadeiras-macas",
+    "name": "Peça Cadeiras e Maças",
+    "category": "cadeiras-macas",
+    "categoryName": "Cadeiras e Maças",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cadeiras-macas/06-89ec509f4091d0aebf563719599ec4f2.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/06-89ec509f4091d0aebf563719599ec4f2.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cadeiras-e-macas-7-cadeiras-macas",
+    "name": "Peça Cadeiras e Maças",
+    "category": "cadeiras-macas",
+    "categoryName": "Cadeiras e Maças",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cadeiras-macas/07-8b6c0631255adbe8be06ec928eb68b27.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/07-8b6c0631255adbe8be06ec928eb68b27.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cadeiras-e-macas-8-cadeiras-macas",
+    "name": "Peça Cadeiras e Maças",
+    "category": "cadeiras-macas",
+    "categoryName": "Cadeiras e Maças",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cadeiras-macas/08-d002e2bd6bf3362bf3792434614740c4.jpg",
+    "gallery": [
+      "assets/pecas/cadeiras-macas/08-d002e2bd6bf3362bf3792434614740c4.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "tropical",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-carregadores-1-carregadores",
+    "name": "Peça Carregadores",
+    "category": "carregadores",
+    "categoryName": "Carregadores",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/carregadores/01-01be9a61e970c278f4f5552154a456e8.jpg",
+    "gallery": [
+      "assets/pecas/carregadores/01-01be9a61e970c278f4f5552154a456e8.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "tecnologico"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-carregadores-2-carregadores",
+    "name": "Peça Carregadores",
+    "category": "carregadores",
+    "categoryName": "Carregadores",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/carregadores/02-46d3c4c561a1520f44b4141fc6449a93.jpg",
+    "gallery": [
+      "assets/pecas/carregadores/02-46d3c4c561a1520f44b4141fc6449a93.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "tecnologico"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-carregadores-3-carregadores",
+    "name": "Peça Carregadores",
+    "category": "carregadores",
+    "categoryName": "Carregadores",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/carregadores/03-e351108f12e109ec4537dae0551ad60a.jpg",
+    "gallery": [
+      "assets/pecas/carregadores/03-e351108f12e109ec4537dae0551ad60a.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "tecnologico"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-carregadores-4-carregadores",
+    "name": "Peça Carregadores",
+    "category": "carregadores",
+    "categoryName": "Carregadores",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/carregadores/04-e3a705b80f1a6f64f8f17cd47b693f90.jpg",
+    "gallery": [
+      "assets/pecas/carregadores/04-e3a705b80f1a6f64f8f17cd47b693f90.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "tecnologico"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-chaveiros-2-chaveiros",
+    "name": "Peça Chaveiros",
+    "category": "chaveiros",
+    "categoryName": "Chaveiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/chaveiros/02-3891174ebe76e7ca3277d8e989bc0c60.jpg",
+    "gallery": [
+      "assets/pecas/chaveiros/02-3891174ebe76e7ca3277d8e989bc0c60.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-chaveiros-3-chaveiros",
+    "name": "Peça Chaveiros",
+    "category": "chaveiros",
+    "categoryName": "Chaveiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/chaveiros/03-44647e58f233bac481b5e9b5817a6ffd.jpg",
+    "gallery": [
+      "assets/pecas/chaveiros/03-44647e58f233bac481b5e9b5817a6ffd.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-chaveiros-4-chaveiros",
+    "name": "Peça Chaveiros",
+    "category": "chaveiros",
+    "categoryName": "Chaveiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/chaveiros/04-72ca23f3ed0fbb89b451de6efbd3ec67.jpg",
+    "gallery": [
+      "assets/pecas/chaveiros/04-72ca23f3ed0fbb89b451de6efbd3ec67.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "chaveiros-5-chaveiros",
+    "name": "Chaveiros",
+    "category": "chaveiros",
+    "categoryName": "Chaveiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/chaveiros/05-lembrancas-boho-em-macrame-encomendas-21-99278-1819-segue-a-gente-para-mais.jpeg",
+    "gallery": [
+      "assets/pecas/chaveiros/05-lembrancas-boho-em-macrame-encomendas-21-99278-1819-segue-a-gente-para-mais.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "cafe"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cocares-1-cocares",
+    "name": "Peça Cocares",
+    "category": "cocares",
+    "categoryName": "Cocares",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cocares/01-181f58ad448c1472c334d0a590ac2526.jpg",
+    "gallery": [
+      "assets/pecas/cocares/01-181f58ad448c1472c334d0a590ac2526.jpg"
+    ],
+    "ambientes": [
+      "mistico-oraculo",
+      "espiritual-templo",
+      "civilizacoes",
+      "artistico"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cocares-2-cocares",
+    "name": "Peça Cocares",
+    "category": "cocares",
+    "categoryName": "Cocares",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cocares/02-528e8aec1a519ca96ab4bc1db1ab4dcf.jpg",
+    "gallery": [
+      "assets/pecas/cocares/02-528e8aec1a519ca96ab4bc1db1ab4dcf.jpg"
+    ],
+    "ambientes": [
+      "mistico-oraculo",
+      "espiritual-templo",
+      "civilizacoes",
+      "artistico"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cocares-3-cocares",
+    "name": "Peça Cocares",
+    "category": "cocares",
+    "categoryName": "Cocares",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cocares/03-71f51521524a1c5ebbe61895dcb8eda6.jpg",
+    "gallery": [
+      "assets/pecas/cocares/03-71f51521524a1c5ebbe61895dcb8eda6.jpg"
+    ],
+    "ambientes": [
+      "mistico-oraculo",
+      "espiritual-templo",
+      "civilizacoes",
+      "artistico"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cocares-4-cocares",
+    "name": "Peça Cocares",
+    "category": "cocares",
+    "categoryName": "Cocares",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cocares/04-976b9aa71bc569ffcb81db04a21885ab.jpg",
+    "gallery": [
+      "assets/pecas/cocares/04-976b9aa71bc569ffcb81db04a21885ab.jpg"
+    ],
+    "ambientes": [
+      "mistico-oraculo",
+      "espiritual-templo",
+      "civilizacoes",
+      "artistico"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cortinas-2-cortinas",
+    "name": "Peça Cortinas",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/02-52f48f11-a91c-406f-a683-02bf3a4d795a.jpeg",
+    "gallery": [
+      "assets/pecas/cortinas/02-52f48f11-a91c-406f-a683-02bf3a4d795a.jpeg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cortinas-3-cortinas",
+    "name": "Peça Cortinas",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/03-94902c9e5e4305e4fc8b6572a8b0e638.jpg",
+    "gallery": [
+      "assets/pecas/cortinas/03-94902c9e5e4305e4fc8b6572a8b0e638.jpg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cortinas-4-cortinas",
+    "name": "Peça Cortinas",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/04-9a869e62-b38b-4cc2-a81f-eebe98f04411.jpeg",
+    "gallery": [
+      "assets/pecas/cortinas/04-9a869e62-b38b-4cc2-a81f-eebe98f04411.jpeg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cortinas-5-cortinas",
+    "name": "Peça Cortinas",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/05-d3d8b2cbb100d5235f59f329d9e8b0b7.jpg",
+    "gallery": [
+      "assets/pecas/cortinas/05-d3d8b2cbb100d5235f59f329d9e8b0b7.jpg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cortinas-6-cortinas",
+    "name": "Peça Cortinas",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/06-dc56f0c3932115b9427073363962d496.jpg",
+    "gallery": [
+      "assets/pecas/cortinas/06-dc56f0c3932115b9427073363962d496.jpg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cortinas-7-cortinas",
+    "name": "Peça Cortinas",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/07-de2c27905e7802ad556c4b1732365e71.jpg",
+    "gallery": [
+      "assets/pecas/cortinas/07-de2c27905e7802ad556c4b1732365e71.jpg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cortinas-8-cortinas",
+    "name": "Peça Cortinas",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/08-f5fd8452cdb3475b83041cb83163afb6.jpg",
+    "gallery": [
+      "assets/pecas/cortinas/08-f5fd8452cdb3475b83041cb83163afb6.jpg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-cortinas-9-cortinas",
+    "name": "Peça Cortinas",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/09-f60ce71d-1fbd-4243-9977-0e733fdc896c.jpeg",
+    "gallery": [
+      "assets/pecas/cortinas/09-f60ce71d-1fbd-4243-9977-0e733fdc896c.jpeg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "img-0917-10-cortinas",
+    "name": "Img 0917",
+    "category": "cortinas",
+    "categoryName": "Cortinas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/cortinas/10-img-0917.jpg",
+    "gallery": [
+      "assets/pecas/cortinas/10-img-0917.jpg"
+    ],
+    "ambientes": [
+      "tropical",
+      "praia",
+      "casamento",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-2-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/02-0fdd2ce5afe19635fa7d77f8dcdc62da.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/02-0fdd2ce5afe19635fa7d77f8dcdc62da.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-3-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/03-20251211-145822.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/03-20251211-145822.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-4-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/04-20251211-145826.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/04-20251211-145826.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-5-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/05-20251211-145827.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/05-20251211-145827.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-6-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/06-20251211-145828.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/06-20251211-145828.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-7-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/07-20251211-145829.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/07-20251211-145829.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-8-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/08-20251211-145844.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/08-20251211-145844.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-9-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/09-34161438fb11169c69d9921394f1a728.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/09-34161438fb11169c69d9921394f1a728.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-10-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/10-38a876d4ee4a8870360a2143298c3b6c.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/10-38a876d4ee4a8870360a2143298c3b6c.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-11-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/11-3a64f5eba3163e29806d7b8c238772a3.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/11-3a64f5eba3163e29806d7b8c238772a3.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-12-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/12-8198da1df9e2ace42688524690395d89.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/12-8198da1df9e2ace42688524690395d89.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-espelhos-13-espelhos",
+    "name": "Peça Espelhos",
+    "category": "espelhos",
+    "categoryName": "Espelhos",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/espelhos/13-950d010ca6df5e5b2e96fcfba7ba0246.jpg",
+    "gallery": [
+      "assets/pecas/espelhos/13-950d010ca6df5e5b2e96fcfba7ba0246.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "praia",
+      "hotel-boutique",
+      "luxo-haute-decor"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-lustres-5-lustres",
+    "name": "Peça Lustres",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/05-3a13e6bf-10ae-4693-933e-b8bd767287e2.jpeg",
+    "gallery": [
+      "assets/pecas/lustres/05-3a13e6bf-10ae-4693-933e-b8bd767287e2.jpeg"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-lustres-6-lustres",
+    "name": "Peça Lustres",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/06-ae0d6262-cdcf-4803-b47e-3b0b5cbc64b8.jpeg",
+    "gallery": [
+      "assets/pecas/lustres/06-ae0d6262-cdcf-4803-b47e-3b0b5cbc64b8.jpeg"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "lustres-7-lustres",
+    "name": "Lustres",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/07-como-usar-macrame-na-decoracao-de-um-jeito-incrivel-copia.jpeg",
+    "gallery": [
+      "assets/pecas/lustres/07-como-usar-macrame-na-decoracao-de-um-jeito-incrivel-copia.jpeg"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-lustres-8-lustres",
+    "name": "Peça Lustres",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/08-d394fce608668f8ea8787b3bc4766e7a.jpg",
+    "gallery": [
+      "assets/pecas/lustres/08-d394fce608668f8ea8787b3bc4766e7a.jpg"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-lustres-9-lustres",
+    "name": "Peça Lustres",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/09-dd8004115eb690a38d68f1aed04cf2b1.jpg",
+    "gallery": [
+      "assets/pecas/lustres/09-dd8004115eb690a38d68f1aed04cf2b1.jpg"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-lustres-10-lustres",
+    "name": "Peça Lustres",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/10-e4080629fce68ad063bea9dd2bce5e03.jpg",
+    "gallery": [
+      "assets/pecas/lustres/10-e4080629fce68ad063bea9dd2bce5e03.jpg"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "lustres-11-lustres",
+    "name": "Lustres",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/11-farmhouse-lighting-boho-lampshade-fringe-cotton-pendant-macrame-chandelier-fixtu.jpeg",
+    "gallery": [
+      "assets/pecas/lustres/11-farmhouse-lighting-boho-lampshade-fringe-cotton-pendant-macrame-chandelier-fixtu.jpeg"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "lampara-macrame-12-lustres",
+    "name": "Lampara Macramê",
+    "category": "lustres",
+    "categoryName": "Lustres",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/lustres/12-lampara-macrame.png",
+    "gallery": [
+      "assets/pecas/lustres/12-lampara-macrame.png"
+    ],
+    "ambientes": [
+      "hotel-boutique",
+      "rustico-cabana",
+      "dark-luxury-noir",
+      "classico-palacete"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-mantas-2-mantas",
+    "name": "Peça Mantas",
+    "category": "mantas",
+    "categoryName": "Mantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mantas/02-1187ea6f696f4d15c1910aeabcbbbf8f.jpg",
+    "gallery": [
+      "assets/pecas/mantas/02-1187ea6f696f4d15c1910aeabcbbbf8f.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "campo",
+      "chale",
+      "montanha"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-mantas-3-mantas",
+    "name": "Peça Mantas",
+    "category": "mantas",
+    "categoryName": "Mantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mantas/03-46c56b5d2d3b9973d148c022e1ad41ee.jpg",
+    "gallery": [
+      "assets/pecas/mantas/03-46c56b5d2d3b9973d148c022e1ad41ee.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "campo",
+      "chale",
+      "montanha"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-mantas-4-mantas",
+    "name": "Peça Mantas",
+    "category": "mantas",
+    "categoryName": "Mantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mantas/04-e8119ce5e290678be98367eaf307eaa2.jpg",
+    "gallery": [
+      "assets/pecas/mantas/04-e8119ce5e290678be98367eaf307eaa2.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "campo",
+      "chale",
+      "montanha"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "mantas-5-mantas",
+    "name": "Mantas",
+    "category": "mantas",
+    "categoryName": "Mantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mantas/05-peseira-o-que-e-como-usar-tamanho-ideal-73-modelos-lindos-1.jpeg",
+    "gallery": [
+      "assets/pecas/mantas/05-peseira-o-que-e-como-usar-tamanho-ideal-73-modelos-lindos-1.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "campo",
+      "chale",
+      "montanha"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "mantas-6-mantas",
+    "name": "Mantas",
+    "category": "mantas",
+    "categoryName": "Mantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mantas/06-e-compra-e-venda-roupas-sapatos-moveis-novos-usados.jpeg",
+    "gallery": [
+      "assets/pecas/mantas/06-e-compra-e-venda-roupas-sapatos-moveis-novos-usados.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "campo",
+      "chale",
+      "montanha"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-mesa-1-mesa",
+    "name": "Peça Mesa",
+    "category": "mesa",
+    "categoryName": "Mesa",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mesa/01-0238ef83151b9045020586d82cf739fc.jpg",
+    "gallery": [
+      "assets/pecas/mesa/01-0238ef83151b9045020586d82cf739fc.jpg"
+    ],
+    "ambientes": [
+      "cafe",
+      "restaurante",
+      "praia"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-mesa-2-mesa",
+    "name": "Peça Mesa",
+    "category": "mesa",
+    "categoryName": "Mesa",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mesa/02-4c73ee85b54d8a9dbccf63d0c52ee5fd.jpg",
+    "gallery": [
+      "assets/pecas/mesa/02-4c73ee85b54d8a9dbccf63d0c52ee5fd.jpg"
+    ],
+    "ambientes": [
+      "cafe",
+      "restaurante",
+      "praia"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-mesa-3-mesa",
+    "name": "Peça Mesa",
+    "category": "mesa",
+    "categoryName": "Mesa",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mesa/03-7f42b43f03aee48eb333ed7fea89af61.jpg",
+    "gallery": [
+      "assets/pecas/mesa/03-7f42b43f03aee48eb333ed7fea89af61.jpg"
+    ],
+    "ambientes": [
+      "cafe",
+      "restaurante",
+      "praia"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "mesa-4-mesa",
+    "name": "Mesa",
+    "category": "mesa",
+    "categoryName": "Mesa",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/mesa/04-memoria-caminho-de-mesa-de-macrame-emane-1024x576.webp",
+    "gallery": [
+      "assets/pecas/mesa/04-memoria-caminho-de-mesa-de-macrame-emane-1024x576.webp"
+    ],
+    "ambientes": [
+      "cafe",
+      "restaurante",
+      "praia"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-3-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/03-164e9b13698cb1a716e84fe1efc17c96.jpg",
+    "gallery": [
+      "assets/pecas/paineis/03-164e9b13698cb1a716e84fe1efc17c96.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-4-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/04-1e474e97eebb555556f2ccc6c8a1275e.jpg",
+    "gallery": [
+      "assets/pecas/paineis/04-1e474e97eebb555556f2ccc6c8a1275e.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-5-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/05-3f4b351cb47778067742ed9f7198b21c.jpg",
+    "gallery": [
+      "assets/pecas/paineis/05-3f4b351cb47778067742ed9f7198b21c.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-6-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/06-48d2e82178dc77edc2d3cce6ca457143.jpg",
+    "gallery": [
+      "assets/pecas/paineis/06-48d2e82178dc77edc2d3cce6ca457143.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-7-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/07-5b1bb92c8f712eab15090c21b99a81d7.jpg",
+    "gallery": [
+      "assets/pecas/paineis/07-5b1bb92c8f712eab15090c21b99a81d7.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-8-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/08-5e2e8bd877eee8c26268de1e7cdd0342.jpg",
+    "gallery": [
+      "assets/pecas/paineis/08-5e2e8bd877eee8c26268de1e7cdd0342.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-9-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/09-72e99df21a212970fd8a0c54bce5f145.jpg",
+    "gallery": [
+      "assets/pecas/paineis/09-72e99df21a212970fd8a0c54bce5f145.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-10-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/10-7e2e7e322da20c206ded2c7c103c99b4-1.jpg",
+    "gallery": [
+      "assets/pecas/paineis/10-7e2e7e322da20c206ded2c7c103c99b4-1.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-11-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/11-8f35aa7d2b59e5c8baa0bc6e80d9665e.jpg",
+    "gallery": [
+      "assets/pecas/paineis/11-8f35aa7d2b59e5c8baa0bc6e80d9665e.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-12-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/12-bed4fe6274247499c884335ebd7d963d.jpg",
+    "gallery": [
+      "assets/pecas/paineis/12-bed4fe6274247499c884335ebd7d963d.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-13-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/13-d4d37e228564515a8bc90694120ff543.jpg",
+    "gallery": [
+      "assets/pecas/paineis/13-d4d37e228564515a8bc90694120ff543.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "deu-branco-14-paineis",
+    "name": "Deu Branco",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/14-deu-branco.jpeg",
+    "gallery": [
+      "assets/pecas/paineis/14-deu-branco.jpeg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "paineis-15-paineis",
+    "name": "Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/15-easy-macrame-wall-hanging-ideal-wall-decoration-ideas.jpeg",
+    "gallery": [
+      "assets/pecas/paineis/15-easy-macrame-wall-hanging-ideal-wall-decoration-ideas.jpeg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "fashion-bubbles-16-paineis",
+    "name": "Fashion Bubbles",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/16-fashion-bubbles.jpeg",
+    "gallery": [
+      "assets/pecas/paineis/16-fashion-bubbles.jpeg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-17-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/17-fbf63c52941e1d2c787fe1850e66578a.jpg",
+    "gallery": [
+      "assets/pecas/paineis/17-fbf63c52941e1d2c787fe1850e66578a.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "paineis-18-paineis",
+    "name": "Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/18-painel-de-macrame-dicas-para-fazer-e-50-lindas-ideias.jpeg",
+    "gallery": [
+      "assets/pecas/paineis/18-painel-de-macrame-dicas-para-fazer-e-50-lindas-ideias.jpeg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "painel-macrame-decoracao-casa-ambiente-19-paineis",
+    "name": "Painel Macramê Decoração Casa Ambiente",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/19-painel-macrame-decoracao-casa-ambiente.jpeg",
+    "gallery": [
+      "assets/pecas/paineis/19-painel-macrame-decoracao-casa-ambiente.jpeg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "painel-macrame-decoracao-boho-chic-casa-20-paineis",
+    "name": "Painel Macramê Decoração Boho Chic Casa",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/20-painel-macrame-decoracao-boho-chic-casa.jpeg",
+    "gallery": [
+      "assets/pecas/paineis/20-painel-macrame-decoracao-boho-chic-casa.jpeg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-paineis-21-paineis",
+    "name": "Peça Painéis",
+    "category": "paineis",
+    "categoryName": "Painéis",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/paineis/21-whatsapp-image-2023-10-19-at-20-40-47.jpeg",
+    "gallery": [
+      "assets/pecas/paineis/21-whatsapp-image-2023-10-19-at-20-40-47.jpeg"
+    ],
+    "ambientes": [
+      "artistico",
+      "casamento",
+      "luxo-haute-decor",
+      "espiritual-templo"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-quadros-2-quadros",
+    "name": "Peça Quadros",
+    "category": "quadros",
+    "categoryName": "Quadros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/quadros/02-006fc0c8194ef885fd3f985da04fb23d.jpg",
+    "gallery": [
+      "assets/pecas/quadros/02-006fc0c8194ef885fd3f985da04fb23d.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "classico-palacete",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-quadros-3-quadros",
+    "name": "Peça Quadros",
+    "category": "quadros",
+    "categoryName": "Quadros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/quadros/03-04ebac106573fa506d2228c3960babfb.jpg",
+    "gallery": [
+      "assets/pecas/quadros/03-04ebac106573fa506d2228c3960babfb.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "classico-palacete",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-quadros-4-quadros",
+    "name": "Peça Quadros",
+    "category": "quadros",
+    "categoryName": "Quadros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/quadros/04-566e917cb299efd1572ac48fc4964f4f.jpg",
+    "gallery": [
+      "assets/pecas/quadros/04-566e917cb299efd1572ac48fc4964f4f.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "classico-palacete",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-quadros-5-quadros",
+    "name": "Peça Quadros",
+    "category": "quadros",
+    "categoryName": "Quadros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/quadros/05-5cd29f4b0aca681af31baba9c321e75b.jpg",
+    "gallery": [
+      "assets/pecas/quadros/05-5cd29f4b0aca681af31baba9c321e75b.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "classico-palacete",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-quadros-6-quadros",
+    "name": "Peça Quadros",
+    "category": "quadros",
+    "categoryName": "Quadros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/quadros/06-950d4ee15ef12df06a563d127d2373d6.jpg",
+    "gallery": [
+      "assets/pecas/quadros/06-950d4ee15ef12df06a563d127d2373d6.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "classico-palacete",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-quadros-7-quadros",
+    "name": "Peça Quadros",
+    "category": "quadros",
+    "categoryName": "Quadros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/quadros/07-ed755ce29d733125aa006a235c8c37f6.jpg",
+    "gallery": [
+      "assets/pecas/quadros/07-ed755ce29d733125aa006a235c8c37f6.jpg"
+    ],
+    "ambientes": [
+      "artistico",
+      "classico-palacete",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "saia-de-macrame-1-saias",
+    "name": "Saia de Macramê",
+    "category": "saias",
+    "categoryName": "Saias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/saias/01-saia-de-macrame.jpeg",
+    "gallery": [
+      "assets/pecas/saias/01-saia-de-macrame.jpeg"
+    ],
+    "ambientes": [
+      "praia",
+      "casamento",
+      "tropical"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-saias-2-saias",
+    "name": "Peça Saias",
+    "category": "saias",
+    "categoryName": "Saias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/saias/02-96854562-f88a-4555-ac71-4fe13bffeb36.jpeg",
+    "gallery": [
+      "assets/pecas/saias/02-96854562-f88a-4555-ac71-4fe13bffeb36.jpeg"
+    ],
+    "ambientes": [
+      "praia",
+      "casamento",
+      "tropical"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-saias-3-saias",
+    "name": "Peça Saias",
+    "category": "saias",
+    "categoryName": "Saias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/saias/03-d47a2f37-cdb1-457a-99c4-377dcba2d86f.jpeg",
+    "gallery": [
+      "assets/pecas/saias/03-d47a2f37-cdb1-457a-99c4-377dcba2d86f.jpeg"
+    ],
+    "ambientes": [
+      "praia",
+      "casamento",
+      "tropical"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-sandalias-1-sandalias",
+    "name": "Peça Sandálias",
+    "category": "sandalias",
+    "categoryName": "Sandálias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sandalias/01-20afdba7268571b7dd537c7dc5bd3b50.jpg",
+    "gallery": [
+      "assets/pecas/sandalias/01-20afdba7268571b7dd537c7dc5bd3b50.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-sandalias-2-sandalias",
+    "name": "Peça Sandálias",
+    "category": "sandalias",
+    "categoryName": "Sandálias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sandalias/02-4ad0453cf6c810b9fb5b033f8f9ad462.jpg",
+    "gallery": [
+      "assets/pecas/sandalias/02-4ad0453cf6c810b9fb5b033f8f9ad462.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-sandalias-3-sandalias",
+    "name": "Peça Sandálias",
+    "category": "sandalias",
+    "categoryName": "Sandálias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sandalias/03-6800a09827db3e02ecf8c799c858a11a.jpg",
+    "gallery": [
+      "assets/pecas/sandalias/03-6800a09827db3e02ecf8c799c858a11a.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-sandalias-4-sandalias",
+    "name": "Peça Sandálias",
+    "category": "sandalias",
+    "categoryName": "Sandálias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sandalias/04-e0cfa9806853497f0f4d38efa0da03ac.jpg",
+    "gallery": [
+      "assets/pecas/sandalias/04-e0cfa9806853497f0f4d38efa0da03ac.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-sandalias-5-sandalias",
+    "name": "Peça Sandálias",
+    "category": "sandalias",
+    "categoryName": "Sandálias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sandalias/05-f0f9f84bec594729f4d1d3b0ad4c4f47.jpg",
+    "gallery": [
+      "assets/pecas/sandalias/05-f0f9f84bec594729f4d1d3b0ad4c4f47.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "macrame-fringe-flat-sandals-6-sandalias",
+    "name": "Macramê Fringe Flat Sandals",
+    "category": "sandalias",
+    "categoryName": "Sandálias",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sandalias/06-macrame-fringe-flat-sandals.jpeg",
+    "gallery": [
+      "assets/pecas/sandalias/06-macrame-fringe-flat-sandals.jpeg"
+    ],
+    "ambientes": [
+      "praia",
+      "piscina-oasis",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-sousplats-2-sousplats",
+    "name": "Peça Sousplats",
+    "category": "sousplats",
+    "categoryName": "Sousplats",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sousplats/02-43c0b995-7ce7-4aab-8e9b-b26bd8be9158.jpeg",
+    "gallery": [
+      "assets/pecas/sousplats/02-43c0b995-7ce7-4aab-8e9b-b26bd8be9158.jpeg"
+    ],
+    "ambientes": [
+      "restaurante",
+      "cafe",
+      "praia",
+      "casamento"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "sousplats-3-sousplats",
+    "name": "Sousplats",
+    "category": "sousplats",
+    "categoryName": "Sousplats",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sousplats/03-sousplats.jpeg",
+    "gallery": [
+      "assets/pecas/sousplats/03-sousplats.jpeg"
+    ],
+    "ambientes": [
+      "restaurante",
+      "cafe",
+      "praia",
+      "casamento"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "sousplats-26-sousplats",
+    "name": "Sousplats",
+    "category": "sousplats",
+    "categoryName": "Sousplats",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/instagram/26-thalia-vicci-macrame-on-instagram-tutorial.jpeg",
+    "gallery": [
+      "assets/instagram/26-thalia-vicci-macrame-on-instagram-tutorial.jpeg"
+    ],
+    "ambientes": [
+      "restaurante",
+      "cafe",
+      "praia",
+      "casamento"
+    ],
+    "source": "instagram",
+    "placeholder": false
+  },
+  {
+    "id": "peca-sousplats-4-sousplats",
+    "name": "Peça Sousplats",
+    "category": "sousplats",
+    "categoryName": "Sousplats",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/sousplats/04-whatsapp-image-2023-10-19-at-20-40-48.jpeg",
+    "gallery": [
+      "assets/pecas/sousplats/04-whatsapp-image-2023-10-19-at-20-40-48.jpeg"
+    ],
+    "ambientes": [
+      "restaurante",
+      "cafe",
+      "praia",
+      "casamento"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "super-ideias-de-macrame-criativo-para-se-inspirar-de-frente-para-o-mar-1-suporte",
+    "name": "Super Ideias de Macramê Criativo Para se Inspirar ⋆ de Frente Para o Mar",
+    "category": "suportes-cameras",
+    "categoryName": "Suportes para câmeras",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-cameras/01-20-super-ideias-de-macrame-criativo-para-se-inspirar-de-frente-para-o-mar.jpeg",
+    "gallery": [
+      "assets/pecas/suportes-cameras/01-20-super-ideias-de-macrame-criativo-para-se-inspirar-de-frente-para-o-mar.jpeg"
+    ],
+    "ambientes": [
+      "tecnologico",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "camera-macra-copia-2-suportes-cameras",
+    "name": "Camera Macra Copia",
+    "category": "suportes-cameras",
+    "categoryName": "Suportes para câmeras",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-cameras/02-camera-macra-copia.jpg",
+    "gallery": [
+      "assets/pecas/suportes-cameras/02-camera-macra-copia.jpg"
+    ],
+    "ambientes": [
+      "tecnologico",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-1-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/01-07d5c4f568de4ab69a88fad03d022035.jpg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/01-07d5c4f568de4ab69a88fad03d022035.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-2-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/02-5a5b111513dc01b3f38b962781ab0c5c.jpg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/02-5a5b111513dc01b3f38b962781ab0c5c.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-3-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/03-622b5ecc89f3bc1b2f544808c39c8542.jpg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/03-622b5ecc89f3bc1b2f544808c39c8542.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-4-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/04-6aa194cb7a782851d9e5d60bf2caa5ab.jpg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/04-6aa194cb7a782851d9e5d60bf2caa5ab.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-5-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/05-8210fff0a49a997f58979358d68c09b6.jpg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/05-8210fff0a49a997f58979358d68c09b6.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-6-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/06-91e68c2ada46d8fe745470f7439a7887.jpg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/06-91e68c2ada46d8fe745470f7439a7887.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-7-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/07-b89f5ea2cfc0a2f8342e755320353948.jpg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/07-b89f5ea2cfc0a2f8342e755320353948.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-8-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/08-eb52f94a01189ad792d5a2e0668f880f.jpg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/08-eb52f94a01189ad792d5a2e0668f880f.jpg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "suportes-para-plantas-9-suportes-plantas",
+    "name": "Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/09-lindas-ideias-de-suporte-de-plantas-em-macrame.jpeg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/09-lindas-ideias-de-suporte-de-plantas-em-macrame.jpeg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "mini-suporte-painel-10-suportes-plantas",
+    "name": "Mini Suporte Painel",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/10-mini-suporte-painel.jpeg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/10-mini-suporte-painel.jpeg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "suportes-para-plantas-11-suportes-plantas",
+    "name": "Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/11-suporte-de-vaso-de-plantas-ninho-de-passarinho-em-macrame.jpeg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/11-suporte-de-vaso-de-plantas-ninho-de-passarinho-em-macrame.jpeg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "suporte-para-plantas-12-suportes-plantas",
+    "name": "Suporte Para Plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/12-suporte-para-plantas.jpeg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/12-suporte-para-plantas.jpeg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-suportes-para-plantas-13-suportes-plantas",
+    "name": "Peça Suportes para plantas",
+    "category": "suportes-plantas",
+    "categoryName": "Suportes para plantas",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-plantas/13-whatsapp-image-2023-05-26-at-15-50-37.jpeg",
+    "gallery": [
+      "assets/pecas/suportes-plantas/13-whatsapp-image-2023-05-26-at-15-50-37.jpeg"
+    ],
+    "ambientes": [
+      "biofilico-floresta",
+      "tropical",
+      "zen-wabi-sabi",
+      "urbano-loft"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "20180912macrame-27-1-suportes-prateleira",
+    "name": "20180912macramê 27",
+    "category": "suportes-prateleira",
+    "categoryName": "Prateleiras",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-prateleira/01-20180912macrame-27.jpg",
+    "gallery": [
+      "assets/pecas/suportes-prateleira/01-20180912macrame-27.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "minimalista-silencio"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-prateleiras-2-suportes-prateleira",
+    "name": "Peça Prateleiras",
+    "category": "suportes-prateleira",
+    "categoryName": "Prateleiras",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/suportes-prateleira/02-c16e6622-e02f-4891-b7f6-b0f7a4b7622f.jpeg",
+    "gallery": [
+      "assets/pecas/suportes-prateleira/02-c16e6622-e02f-4891-b7f6-b0f7a4b7622f.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "minimalista-silencio"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "modelos-de-tapete-de-croche-para-sala-e-tutoriais-para-fazer-o-seu-1-tapetes",
+    "name": "Modelos de Tapete de Crochê Para Sala e Tutoriais Para Fazer o Seu",
+    "category": "tapetes",
+    "categoryName": "Tapetes",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tapetes/01-60-modelos-de-tapete-de-croche-para-sala-e-tutoriais-para-fazer-o-seu.jpeg",
+    "gallery": [
+      "assets/pecas/tapetes/01-60-modelos-de-tapete-de-croche-para-sala-e-tutoriais-para-fazer-o-seu.jpeg"
+    ],
+    "ambientes": [
+      "campo",
+      "rustico-cabana",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-tapetes-2-tapetes",
+    "name": "Peça Tapetes",
+    "category": "tapetes",
+    "categoryName": "Tapetes",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tapetes/02-7fb35180de02d1cdd9859cacfbcf5e3f.jpg",
+    "gallery": [
+      "assets/pecas/tapetes/02-7fb35180de02d1cdd9859cacfbcf5e3f.jpg"
+    ],
+    "ambientes": [
+      "campo",
+      "rustico-cabana",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-tapetes-3-tapetes",
+    "name": "Peça Tapetes",
+    "category": "tapetes",
+    "categoryName": "Tapetes",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tapetes/03-bbec5e05a99c8f0db0d58ed59f3cfbfd.jpg",
+    "gallery": [
+      "assets/pecas/tapetes/03-bbec5e05a99c8f0db0d58ed59f3cfbfd.jpg"
+    ],
+    "ambientes": [
+      "campo",
+      "rustico-cabana",
+      "deserto"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "macrame-dress-6-tops",
+    "name": "Macramê Dress",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tops/06-macrame-dress.jpeg",
+    "gallery": [
+      "assets/pecas/tops/06-macrame-dress.jpeg"
+    ],
+    "ambientes": [
+      "praia",
+      "tropical",
+      "casamento"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "top-amarelo-7-tops",
+    "name": "Top Amarelo",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tops/07-top-amarelo.jpg",
+    "gallery": [
+      "assets/pecas/tops/07-top-amarelo.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "tropical",
+      "casamento"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "top-mostarda-8-tops",
+    "name": "Top Mostarda",
+    "category": "tops",
+    "categoryName": "Tops",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/tops/08-top-mostarda.jpg",
+    "gallery": [
+      "assets/pecas/tops/08-top-mostarda.jpg"
+    ],
+    "ambientes": [
+      "praia",
+      "tropical",
+      "casamento"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-almofadas-e-travesseiros-4-travesseiros",
+    "name": "Peça Almofadas e travesseiros",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/travesseiros/04-963e76e918f978dae711b11e4edffca0.jpg",
+    "gallery": [
+      "assets/pecas/travesseiros/04-963e76e918f978dae711b11e4edffca0.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "chale",
+      "praia",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "peca-almofadas-e-travesseiros-5-travesseiros",
+    "name": "Peça Almofadas e travesseiros",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/travesseiros/05-c31b445b9b7650f295d402c7c3493e48.jpg",
+    "gallery": [
+      "assets/pecas/travesseiros/05-c31b445b9b7650f295d402c7c3493e48.jpg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "chale",
+      "praia",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "capa-de-almofada-flora-em-macrame-6-travesseiros",
+    "name": "Capa de Almofada Flora em Macramê",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/travesseiros/06-capa-de-almofada-flora-em-macrame-1.jpeg",
+    "gallery": [
+      "assets/pecas/travesseiros/06-capa-de-almofada-flora-em-macrame-1.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "chale",
+      "praia",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "capa-de-almofada-flora-em-macrame-7-travesseiros",
+    "name": "Capa de Almofada Flora em Macramê",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/travesseiros/07-capa-de-almofada-flora-em-macrame.jpeg",
+    "gallery": [
+      "assets/pecas/travesseiros/07-capa-de-almofada-flora-em-macrame.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "chale",
+      "praia",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  },
+  {
+    "id": "almofadas-e-travesseiros-8-travesseiros",
+    "name": "Almofadas e travesseiros",
+    "category": "travesseiros",
+    "categoryName": "Almofadas e travesseiros",
+    "status": "consultar",
+    "price": null,
+    "priceLabel": "Consultar",
+    "image": "assets/pecas/travesseiros/08-riseon-bohemia-handmade-cotton-macrame-throw-pillow-cases-cover-pillowcases-couc.jpeg",
+    "gallery": [
+      "assets/pecas/travesseiros/08-riseon-bohemia-handmade-cotton-macrame-throw-pillow-cases-cover-pillowcases-couc.jpeg"
+    ],
+    "ambientes": [
+      "urbano-loft",
+      "chale",
+      "praia",
+      "hotel-boutique"
+    ],
+    "source": "biblioteca",
+    "placeholder": false
+  }
+]
