@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": ["tools/**", "preview.bat", "README.md"]
+  }
+}
